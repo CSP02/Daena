@@ -1,0 +1,20 @@
+{
+	"Character_Name": "Bennet",
+	"Character_Title": "Trial by Fire",
+	"Embed_Color": "#ef7a35",
+	"Role_Build": [
+		{
+			"Build_Name": "Support_Build",
+			"Best_Artifacts_4x": "1. Noblesse Oblige\n2. Instructor\n3. Tenacity of the Millelith",
+			"Best_Artifacts_2x": "1. Emblem of Severed Fate",
+			"weapon": "1. Aquila Favonia\n2. Freedom Sworn\n3. Alley Flash\n4. Skyward Blade\n5. Summit Shaper\n6. Prototype Rancour\n7. Blackcliff\n8. Festering Desire\n9. Sacrificial sword\n10. Favonious sword"
+		},
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": "1. Crimson Witch of Flames\n2. Thundering Fury\n3. Noblesse Oblige\n4. Lavawalker",
+			"Best_Artifacts_2x": "1. Crimson Witch of Flames\n2. Gladiator finale\n3. Nobless Oblige\n4. Wanderer's Troupe",
+			"weapon": "1. Mistsplitter\n2. Jade Cutter\n3. Haran\n4. Lion's Roar\n5. Blackcliff\n6. The Black Sword\n7. Amenoma Kageuchi"
+		}
+	],
+	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Bennett_icon.png"
+}

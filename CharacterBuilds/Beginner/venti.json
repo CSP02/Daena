@@ -1,0 +1,20 @@
+{
+	"Character_Name": "Venti",
+	"Character_Title": "Windborne Bard",
+	"Embed_Color": "#75c2aa",
+	"Role_Build": [
+		{
+			"Build_Name": "Support_Build",
+			"Best_Artifacts_4x": "- Viridescent Venerer\n- Glided Dreams\n- Instructor",
+			"Best_Artifacts_2x": "- Wanderer's Troupe\n- Instructor",
+			"weapon": "- Elegy for the End\n- The Stringless\n- Mouun's Moon\n- Alley Hunter\n- Windblume Ode\n- Raven Bow\n- Fading Twilight\n- Prototype Crescent\n- Favonius Warbow"
+		},
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": "- Viridescent Venerer\n- Emblem of Severed Fate",
+			"Best_Artifacts_2x": "- Viridescent Venerer\n- Desert Pavilion Chronicle\n- Noblesse Oblige",
+			"weapon": "- Polar Star\n- The Stringless\n- Aqua Simulacra\n- Skyward Harp\n- Elegy for the End\n- Hunter's Path\n- Mouun's Moon\n- Alley Hunter\n- Blackcliff Warbow\n- Thundering Pulse"
+		}
+	],
+	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Venti_icon.png"
+}

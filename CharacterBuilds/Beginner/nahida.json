@@ -1,0 +1,14 @@
+{
+	"Character_Name": "Nahida",
+	"Character_Title": "Physic of Purity",
+	"Embed_Color": "#a6c938",
+	"Role_Build": [
+		{
+			"Build_Name": "Support_Build",
+			"Best_Artifacts_4x": "- Deepwood Memories\n- Gilded Dreams\n- Tenacity of the Millelith\n- Instructor\n- Noblesse Oblige\n- Flower of Paradise Lost",
+			"Best_Artifacts_2x": "- Any 2x combination of EM/Dendro DMG %",
+			"weapon": "- A Thousand Floating Dreams\n- Kagura's Verity\n- Sacrificial Fragments\n- Wandering Evenstar\n- The Widsith\n- Lost Prayer to the Sacred Winds\n- Solar Pearl\n- Favonius Codex\n- Mappa Mare\n- Hakushin Ring\n1- Prototype Amber\n1- Thrilling Tales of Dragon Slayers"
+		}
+	],
+	"Character_Image_URL": "https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/658bdb9a838ece5bd1d2b5e8bfadbe3-png"
+}

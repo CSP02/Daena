@@ -1,0 +1,20 @@
+{
+	"Character_Name": "Furina",
+	"Character_Title": "Endless Solo of Solitude",
+	"Embed_Color": "#00BFFF",
+	"Role_Build": [
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": "Coming soon",
+			"Best_Artifacts_2x": "Coming soon",
+			"weapon": "Coming soon"
+		},
+		{
+			"Build_Name": "Support_Build",
+			"Best_Artifacts_4x": "Coming soon",
+			"Best_Artifacts_2x": "Coming soon",
+			"weapon": "Coming soon"
+		}
+	],
+	"Character_Image_URL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/25/151578876/23e355600e10c9330225fc0c62ac1aa0_3977048675261208595.png?x-oss-process=image%2Fformat%2Cwebp"
+}

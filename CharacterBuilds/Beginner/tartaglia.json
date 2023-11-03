@@ -1,0 +1,20 @@
+{
+	"Character_Name": "Tartaglia",
+	"Character_Title": "Childe",
+	"Embed_Color": "#00BFFF",
+	"Role_Build": [
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": "- Heart of Deapth\n- Shimenawa's Reminiscence",
+			"Best_Artifacts_2x": "- Heart of Deapth\n- Shimenawa's Reminiscence\n- Gladiator Finale\n- Nobless Oblige",
+			"weapon": "- Thundering Pulse\n- Polar Star\n- Skyward Harp\n- Aqua Simulacra\n- Amos' Bow\n- Viridescent Hunt\n- Blackcliff Warbow\n- Mouun's Moon\n- Rust\n- Hamayumi\n1- Prototype Crescent\n1- Alley Hunter"
+		},
+		{
+			"Build_Name": "Support_Build",
+			"Best_Artifacts_4x": "Not yet coded",
+			"Best_Artifacts_2x": "Not yet coded",
+			"weapon": "Not yet coded"
+		}
+	],
+	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Tartaglia_icon.png"
+}
