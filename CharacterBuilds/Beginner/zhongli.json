@@ -7,20 +7,27 @@
 			"Build_Name": "Shield_Build",
 			"Best_Artifacts_4x": "- Tenacity of the Millelith\n- Instructor\n- Archaic Petra\n- Deepwood Memories\n- Any artifact that scales on HP",
 			"Best_Artifacts_2x": "- Tenacity of the Millelith\n- Any artifact that scale on HP",
-			"weapon": "- Black tassel\n- Favonious lance"
+			"weapon": "- Black tassel\n- Favonious lance",
+			"Main_Stats": "- Sands: HP%\n- Goblet: HP%\n- Circlet: CRIT Rate/HP%",
+			"Sub_Stats": "HP%/Flat HP > CritRate% (If using Favonious Lance)"
 		},
 		{
 			"Build_Name": "Support_Build",
 			"Best_Artifacts_4x": "- Noblesse Oblige\n- Emblem of Severed Fate\n- Archaic Petra",
 			"Best_Artifacts_2x": "- Noblesse Oblige\n- Emblem of Severed Fate",
-			"weapon": "- Staff of homa\n- Wavebreaker's Fin\n- Calamity Queller\n- The Catch\n- Deathmatch\n- Primordial Jade Winged-Spear\n- Vortex Vanquisher\n- Skyward Spine\n- Lithic Spear\n- Engulfing Lightning\n1- Blackcliff Pole\n1- Favonius Lance"
+			"weapon": "- Staff of homa\n- Wavebreaker's Fin\n- Calamity Queller\n- The Catch\n- Deathmatch\n- Primordial Jade Winged-Spear\n- Vortex Vanquisher\n- Skyward Spine\n- Lithic Spear\n- Engulfing Lightning\n- Blackcliff Pole\n- Favonius Lance",
+			"Main_Stats": "- Sands: ATK%/HP%\n- Goblet: Geo DMG%\n- Circlet: CRIT Rate/CRIT Damage",
+			"Sub_Stats": "ER% > Crit%/Atk%/HP%"
 		},
 		{
 			"Build_Name": "DPS_Build",
 			"Best_Artifacts_4x": "- Pale Flame\n- Gladiator's Finale\n- Shimenawa's Reminiscence\n- Retracing Bolide\n- Tenacity of the Millelith\n- Echoes of an Offering\n- Husk of Opulent Dreams",
 			"Best_Artifacts_2x": "- Bloodstained Chivalry\n- Pale Flame\n- Noblesse Oblige",
-			"weapon": "- Crescent Pike\n- Staff of Homa\n- Primordial Jade Winged-Spear\n- Calamity Queller\n- Vortex Vanquisher\n- Deathmatch\n- White Tassel\n- Blackcliff Pole\n- Favonius Lance"
+			"weapon": "- Crescent Pike\n- Staff of Homa\n- Primordial Jade Winged-Spear\n- Calamity Queller\n- Vortex Vanquisher\n- Deathmatch\n- White Tassel\n- Blackcliff Pole\n- Favonius Lance",
+			"Mablain_Stats": "- Sands: ATK%/HP%\n- Goblet: Geo DMG%\n- Circlet: CRIT Rate/CRIT Damage",
+			"Sub_Stats": "ER% (until requirement) > Crit% > ATK% > HP% > Flat ATK > Flat HP"
 		}
 	],
+	"Team_Compositions": "",
 	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Zhongli_icon.png"
 }

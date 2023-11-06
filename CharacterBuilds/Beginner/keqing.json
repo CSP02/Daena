@@ -7,14 +7,19 @@
 			"Build_Name": "DPS_Build",
 			"Best_Artifacts_4x": "Not yet coded",
 			"Best_Artifacts_2x": "Not yet coded",
-			"weapon": "Not yet coded"
+			"weapon": "Not yet coded",
+			"Main_Stats": "",
+			"Sub_Stats": ""
 		},
 		{
 			"Build_Name": "Support_Build",
 			"Best_Artifacts_4x": "Not yet coded",
 			"Best_Artifacts_2x": "Not yet coded",
-			"weapon": "Not yet coded"
+			"weapon": "Not yet coded",
+			"Main_Stats": "",
+			"Sub_Stats": ""
 		}
 	],
+	"Team_Compositions": "",
 	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Keqing_icon.png"
 }

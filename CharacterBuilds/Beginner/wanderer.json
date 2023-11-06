@@ -7,13 +7,23 @@
 			"Build_Name": "DPS_Build",
 			"Best_Artifacts_4x": "- Shimenawa Reminiscence\n- Desert Pavilion Chronicle\n- Echoes of an Offering\n Berserker",
 			"Best_Artifacts_2x": "- 2 pc anemo dmg, 2pc atk %\n- 2 pc anemo dmg ,2 pc Normal Attack, Charged Attack bonus",
-			"weapon": "- Tulaytullah's Remembrance\n- lost prayers of the sacred winds\n- kaguras varity\n- Skyward atlas (only recommended if you don't have any other option)\n- widsith\n- sacrificial jade\n- polar pearl\n- flowing purity\n- ballads of boundless blue\n- blackcliff agate\n- aquila favonia\n- twin nephrite"
+			"weapon": "- Tulaytullah's Remembrance\n- lost prayers of the sacred winds\n- kaguras varity\n- Skyward atlas (only recommended if you don't have any other option)\n- widsith\n- sacrificial jade\n- polar pearl\n- flowing purity\n- ballads of boundless blue\n- blackcliff agate\n- aquila favonia\n- twin nephrite",
+			"Main_Stats": "- sands : atk%\n- goblet : Anemo dmg bonus\n- circlet : crit dmg /rate",
+			"Sub_Stats": "CRIT > ATK% > ENERGY RECHARGE"
 		},
 		{
 			"Build_Name": "Support_Build",
 			"Best_Artifacts_4x": "Seriously?",
 			"Best_Artifacts_2x": "Wanderer wants to know your location.",
-			"weapon": "Well you don't need a weapon to fly."
+			"weapon": "Well you don't need a weapon to fly.",
+			"Main_Stats": "",
+			"Sub_Stats": ""
+		}
+	],
+	"Team_Compositions": [
+		{
+			"Team_Name":"DPS",
+			"Team":"- wanderer, faruzan, Bennet, zhongli\n- wanderer, faruzan, Bennet, layla(tenacity)\n- wanderer, faruzan, Bennet, Thoma\n- wanderer, faruzan, Bennet, dehya(tenacity)\n- wanderer, faruzan, Bennet, yunjin(fav+emblem/husk)\n- wanderer, faruzan, jean, bennet"
 		}
 	],
 	"Character_Image_URL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/05/35428890/24d97a22be742fb732ea96f625d1faac_2495743636540582085.png?x-oss-process=image%2Fformat%2Cwebp"

@@ -1,0 +1,25 @@
+{
+    "Character_Name": "Xingqiu",
+    "Character_Title": "Juvenile Galant",
+    "Embed_Color": "#00BFFF",
+    "Role_Build": [
+        {
+            "Build_Name": "DPS_Build",
+            "Best_Artifacts_4x": "",
+            "Best_Artifacts_2x": "",
+            "weapon": "",
+            "Main_Stats": "",
+			"Sub_Stats": ""
+        },
+        {
+            "Build_Name": "Support_Build",
+            "Best_Artifacts_4x": "",
+            "Best_Artifacts_2x": "",
+            "weapon": "",
+            "Main_Stats": "",
+			"Sub_Stats": ""
+        }
+    ],
+    "Team_Compositions": "",
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Xingqiu_icon.png"
+}

@@ -7,7 +7,23 @@
 			"Build_Name": "Support_Build",
 			"Best_Artifacts_4x": "- Deepwood Memories\n- Gilded Dreams\n- Tenacity of the Millelith\n- Instructor\n- Noblesse Oblige\n- Flower of Paradise Lost",
 			"Best_Artifacts_2x": "- Any 2x combination of EM/Dendro DMG %",
-			"weapon": "- A Thousand Floating Dreams\n- Kagura's Verity\n- Sacrificial Fragments\n- Wandering Evenstar\n- The Widsith\n- Lost Prayer to the Sacred Winds\n- Solar Pearl\n- Favonius Codex\n- Mappa Mare\n- Hakushin Ring\n1- Prototype Amber\n1- Thrilling Tales of Dragon Slayers"
+			"weapon": "- A Thousand Floating Dreams\n- Kagura's Verity\n- Sacrificial Fragments\n- Wandering Evenstar\n- The Widsith\n- Lost Prayer to the Sacred Winds\n- Solar Pearl\n- Favonius Codex\n- Mappa Mare\n- Hakushin Ring\n- Prototype Amber\n- Thrilling Tales of Dragon Slayers",
+			"Main_Stats": "- Sands : Elemental Mystery\n- Goblet: Elemental Mystery or dendro dmg bonus\n- Circlet : Elemental Mystery or crit rate/damage",
+			"Sub_Stats": "Elemental Mystery > Energy Recharge > CRIT Rate = CRIT damage"
+		}
+	],
+	"Team_Compositions": [
+		{
+			"Team_Name": "Hyperbloom",
+			"Team": "- nahida, yelan, raiden, zhongli\n- nahida, xingqiu, kuki shinobu, yao yao"
+		},
+		{
+			"Team_Name": "Nilou bloom",
+			"Team": "- nilou, nahida, yelan, kokomi\n- nilou, nahida, xingqiu, barbara"
+		},
+		{
+			"Team_Name": "On-field quicken",
+			"Team": "- nahida, fischl, yae miko, kazuha\n- nahida, fischl, beidou, jean/sayu"
 		}
 	],
 	"Character_Image_URL": "https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/658bdb9a838ece5bd1d2b5e8bfadbe3-png"

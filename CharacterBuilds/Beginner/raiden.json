@@ -7,14 +7,19 @@
 			"Build_Name": "DPS_Build",
 			"Best_Artifacts_4x": "- Emblem of Severed Fate\n- Tenacity of the Millelith",
 			"Best_Artifacts_2x": "- Noblesse Oblige\n- Thundering Fury\n- +18% ATK set (2)\n- Emblem of Severed Fate (2) [Choose Two]",
-			"weapon": "- Engulfing Lightning\n- Staff of Homa\n- Primordial Jade Winged-Spear\n- Staff of the Scarlet Sands\n- Calamity Queller\n- The Catch\n- Skyward Spine\n- Deathmatch\n- Wavebreaker's Fin\n- Lithic Spear\n- Favonius Lance\n- Prototype Starglitter"
+			"weapon": "- Engulfing Lightning\n- Staff of Homa\n- Primordial Jade Winged-Spear\n- Staff of the Scarlet Sands\n- Calamity Queller\n- The Catch\n- Skyward Spine\n- Deathmatch\n- Wavebreaker's Fin\n- Lithic Spear\n- Favonius Lance\n- Prototype Starglitter",
+			"Main_Stats": "- Sands: ER% or ATK%\n- Goblet: Electro DMG% or ATK%\n- Circlet: CRIT Rate or CRIT DMG",
+			"Sub_Stats": "CR = CD > ATK% ≥ ER > Flat ATK"
 		},
 		{
 			"Build_Name": "Support_Build",
 			"Best_Artifacts_4x": "- Emblem of Severed Fate\n- Gilded Dreams\n- Flower of Paradise Lost",
 			"Best_Artifacts_2x": "- 2pc combinations of Gilded Dreams and Wanderer's Troupe\n- +80 EM set (2) / +80 EM set (2)",
-			"weapon": "- Engulfing Lightning\n- The Catch\n- Skyward Spine\n- Wavebreaker's Fin\n- Favonius Lance\n- Prototype Starglitter\n- Dragon's bane\n- Moonpiercer\n- Kitain cross spear"
+			"weapon": "- Engulfing Lightning\n- The Catch\n- Skyward Spine\n- Wavebreaker's Fin\n- Favonius Lance\n- Prototype Starglitter\n- Dragon's bane\n- Moonpiercer\n- Kitain cross spear",
+			"Main_Stats": "",
+			"Sub_Stats": ""
 		}
 	],
+	"Team_Compositions": "",
 	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Raiden%2520Shogun_icon.png"
 }
