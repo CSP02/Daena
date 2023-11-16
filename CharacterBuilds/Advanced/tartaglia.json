@@ -7,13 +7,13 @@
 			"Build_Name": "DPS_Build",
 			"Best_Artifacts_4x": "1. Heart of Deapth\n2. Shimenawa's Reminiscence",
 			"Best_Artifacts_2x": "1. Heart of Deapth\n2. Shimenawa's Reminiscence\n3. Gladiator Finale\n4. Nobless Oblige",
-			"weapon": "1. Thundering Pulse\n2. Polar Star\n3. Skyward Harp\n4. Aqua Simulacra\n5. Amos' Bow\n6. Viridescent Hunt\n7. Blackcliff Warbow\n8. Mouun's Moon\n9. Rust\n10. Hamayumi\n11. Prototype Crescent\n12. Alley Hunter"
+			"Weapon": "1. Thundering Pulse\n2. Polar Star\n3. Skyward Harp\n4. Aqua Simulacra\n5. Amos' Bow\n6. Viridescent Hunt\n7. Blackcliff Warbow\n8. Mouun's Moon\n9. Rust\n10. Hamayumi\n11. Prototype Crescent\n12. Alley Hunter"
 		},
 		{
 			"Build_Name": "Support_Build",
 			"Best_Artifacts_4x": "Not yet coded",
 			"Best_Artifacts_2x": "Not yet coded",
-			"weapon": "Not yet coded"
+			"Weapon": "Not yet coded"
 		}
 	],
 	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Tartaglia_icon.png"

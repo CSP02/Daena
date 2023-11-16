@@ -1,0 +1,17 @@
+{
+    "Character_Name": "Yae Miko",
+    "Character_Title": "Astute Amusement",
+    "Embed_Color": "#b08fc2",
+    "Role_Build": [
+        {
+            "Build_Name": "DPS_Build",
+            "Best_Artifacts_4x": "- Emblem of Severed Fate\n- Tenacity of the Millelith\n- Thundersoother",
+            "Best_Artifacts_2x": "- Thundering fury\n- Shimenawa's Reminiscence\n- Gladiator finale\n- Emblem of severed fate",
+            "Weapon": "- Kagura's Verity\n- Skyward Atlas\n- Memory of Dust\n- Lost Prayer to the Sacred Winds\n- The Widsith\n- Oathsworn's Eye\n- Solar Pearl \n-Hakushin Ring\n- Mappa Mare\n- Favonius Codex",
+            "Main_Stats": "- Sands: ATK% or ER%\n- Goblet: Electro DMG%\n- Circlet: CRIT Rate% or CRIT DMG%",
+			"Sub_Stats": "ER% > CRIT Rate% = CRIT DMG% > ATK% > Flat ATK = EM"
+        }
+    ],
+    "Team_Compositions": "",
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Yae%2520Miko_icon.png"
+}

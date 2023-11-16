@@ -7,7 +7,7 @@
 			"Build_Name": "DPS_Build",
 			"Best_Artifacts_4x": "- Shimenawa Reminiscence\n- Desert Pavilion Chronicle\n- Echoes of an Offering\n Berserker",
 			"Best_Artifacts_2x": "- 2 pc anemo dmg, 2pc atk %\n- 2 pc anemo dmg ,2 pc Normal Attack, Charged Attack bonus",
-			"weapon": "- Tulaytullah's Remembrance\n- lost prayers of the sacred winds\n- kaguras varity\n- Skyward atlas (only recommended if you don't have any other option)\n- widsith\n- sacrificial jade\n- polar pearl\n- flowing purity\n- ballads of boundless blue\n- blackcliff agate\n- aquila favonia\n- twin nephrite",
+			"Weapon": "- Tulaytullah's Remembrance\n- lost prayers of the sacred winds\n- kaguras varity\n- Skyward atlas (only recommended if you don't have any other option)\n- widsith\n- sacrificial jade\n- polar pearl\n- flowing purity\n- ballads of boundless blue\n- blackcliff agate\n- aquila favonia\n- twin nephrite",
 			"Main_Stats": "- sands : atk%\n- goblet : Anemo dmg bonus\n- circlet : crit dmg /rate",
 			"Sub_Stats": "CRIT > ATK% > ENERGY RECHARGE"
 		},
@@ -15,7 +15,7 @@
 			"Build_Name": "Support_Build",
 			"Best_Artifacts_4x": "Seriously?",
 			"Best_Artifacts_2x": "Wanderer wants to know your location.",
-			"weapon": "Well you don't need a weapon to fly.",
+			"Weapon": "Well you don't need a Weapon to fly.",
 			"Main_Stats": "",
 			"Sub_Stats": ""
 		}

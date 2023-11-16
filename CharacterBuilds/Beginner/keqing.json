@@ -7,17 +7,17 @@
 			"Build_Name": "DPS_Build",
 			"Best_Artifacts_4x": "Not yet coded",
 			"Best_Artifacts_2x": "Not yet coded",
-			"weapon": "Not yet coded",
-			"Main_Stats": "",
-			"Sub_Stats": ""
+			"Weapon": "Not yet coded",
+			"Main_Stats": "Not yet coded",
+			"Sub_Stats": "Not yet coded"
 		},
 		{
 			"Build_Name": "Support_Build",
 			"Best_Artifacts_4x": "Not yet coded",
 			"Best_Artifacts_2x": "Not yet coded",
-			"weapon": "Not yet coded",
-			"Main_Stats": "",
-			"Sub_Stats": ""
+			"Weapon": "Not yet coded",
+			"Main_Stats": "Not yet coded",
+			"Sub_Stats": "Not yet coded"
 		}
 	],
 	"Team_Compositions": "",

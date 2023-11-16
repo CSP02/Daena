@@ -7,13 +7,13 @@
 			"Build_Name": "DPS_Build",
 			"Best_Artifacts_4x": "- Shimenawa Reminiscence",
 			"Best_Artifacts_2x": "",
-			"weapon": "- Thulaythullas REMEMBERANCE\n- lost prayers of the sacred winds\n- kaguras varity\n- Skyward atlas (only recommended if you don't have any other option)\n- widsith\n- sacrificial jade\n- polar pearl\n- flowing purity\n- ballads of boundless blue\n- blackcliff agate\n- aquila favonia\n- twin nephrite"
+			"Weapon": "- Thulaythullas REMEMBERANCE\n- lost prayers of the sacred winds\n- kaguras varity\n- Skyward atlas (only recommended if you don't have any other option)\n- widsith\n- sacrificial jade\n- polar pearl\n- flowing purity\n- ballads of boundless blue\n- blackcliff agate\n- aquila favonia\n- twin nephrite"
 		},
 		{
 			"Build_Name": "Support_Build",
 			"Best_Artifacts_4x": "",
 			"Best_Artifacts_2x": "",
-			"weapon": ""
+			"Weapon": ""
 		}
 	],
 	"Character_Image_URL": ""

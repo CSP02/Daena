@@ -7,7 +7,7 @@
 			"Build_Name": "Support_Build",
 			"Best_Artifacts_4x": "- Viridescent Venerer\n- Glided Dreams\n- Instructor",
 			"Best_Artifacts_2x": "- Wanderer's Troupe\n- Instructor",
-			"weapon": "- Elegy for the End\n- The Stringless\n- Mouun's Moon\n- Alley Hunter\n- Windblume Ode\n- Raven Bow\n- Fading Twilight\n- Prototype Crescent\n- Favonius Warbow",
+			"Weapon": "- Elegy for the End\n- The Stringless\n- Mouun's Moon\n- Alley Hunter\n- Windblume Ode\n- Raven Bow\n- Fading Twilight\n- Prototype Crescent\n- Favonius Warbow",
 			"Main_Stats": "- Sands: Elemental Mastery\n- Goblet: Elemental Mastery\n Circlet: Elemental Mastery",
 			"Sub_Stats": "ER (until sufficient) > EM > ATK% = CR > CD/Flat ATK"
 		},
@@ -15,7 +15,7 @@
 			"Build_Name": "DPS_Build",
 			"Best_Artifacts_4x": "- Viridescent Venerer\n- Emblem of Severed Fate",
 			"Best_Artifacts_2x": "- Viridescent Venerer\n- Desert Pavilion Chronicle\n- Noblesse Oblige",
-			"weapon": "- Polar Star\n- The Stringless\n- Aqua Simulacra\n- Skyward Harp\n- Elegy for the End\n- Hunter's Path\n- Mouun's Moon\n- Alley Hunter\n- Blackcliff Warbow\n- Thundering Pulse",
+			"Weapon": "- Polar Star\n- The Stringless\n- Aqua Simulacra\n- Skyward Harp\n- Elegy for the End\n- Hunter's Path\n- Mouun's Moon\n- Alley Hunter\n- Blackcliff Warbow\n- Thundering Pulse",
 			"Main_Stats": "- Sands: ATK%\n- Goblet: Anemo DMG%/ATK%\n Circlet: CRIT Rate/CRIT Damage",
 			"Sub_Stats": "ER (until sufficient) > CR = CD > ATK% > EM/Flat ATK"
 		}

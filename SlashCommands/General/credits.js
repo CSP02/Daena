@@ -6,6 +6,9 @@ module.exports = {
 		.setDescription('Shows the sources of the data and people who helped with their builds.'),
 
 	async execute(client, interaction, Discord) {
+		const embed = new Discord.EmbedBuilder()
+			.setTitle("Credits:")
+
 		interaction.reply(`
 	# Credits:
  All the data you are seeing is not mine alone. These are the people and website that helped me to get this data.\n

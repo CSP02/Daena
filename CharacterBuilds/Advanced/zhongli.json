@@ -7,19 +7,19 @@
 			"Build_Name": "Shield_Build",
 			"Best_Artifacts_4x": "1. Tenacity of the Millelith\n2. Instructor\n3. Archaic Petra\n4. Deepwood Memories\n5. Any artifact that scales on HP",
 			"Best_Artifacts_2x": "1. Tenacity of the Millelith\n2. Any artifact that scale on HP",
-			"weapon": "1. Black tassel\n2. Favonious lance"
+			"Weapon": "1. Black tassel\n2. Favonious lance"
 		},
 		{
 			"Build_Name": "Support_Build",
 			"Best_Artifacts_4x": "1. Noblesse Oblige\n2. Emblem of Severed Fate\n3. Archaic Petra",
 			"Best_Artifacts_2x": "1. Noblesse Oblige\n2. Emblem of Severed Fate",
-			"weapon": "1. Staff of homa\n2. Wavebreaker's Fin\n3. Calamity Queller\n4. The Catch\n5. Deathmatch\n6. Primordial Jade Winged-Spear\n7. Vortex Vanquisher\n8. Skyward Spine\n9. Lithic Spear\n10. Engulfing Lightning\n11. Blackcliff Pole\n12. Favonius Lance"
+			"Weapon": "1. Staff of homa\n2. Wavebreaker's Fin\n3. Calamity Queller\n4. The Catch\n5. Deathmatch\n6. Primordial Jade Winged-Spear\n7. Vortex Vanquisher\n8. Skyward Spine\n9. Lithic Spear\n10. Engulfing Lightning\n11. Blackcliff Pole\n12. Favonius Lance"
 		},
 		{
 			"Build_Name": "DPS_Build",
 			"Best_Artifacts_4x": "1. Pale Flame\n2. Gladiator's Finale\n3. Shimenawa's Reminiscence\n4. Retracing Bolide\n5. Tenacity of the Millelith\n6. Echoes of an Offering\n7. Husk of Opulent Dreams",
 			"Best_Artifacts_2x": "1. Bloodstained Chivalry\n2. Pale Flame\n3. Noblesse Oblige",
-			"weapon": "1. Crescent Pike\n2. Staff of Homa\n3. Primordial Jade Winged-Spear\n4. Calamity Queller\n5. Vortex Vanquisher\n6. Deathmatch\n7. White Tassel\n8. Blackcliff Pole\n9. Favonius Lance"
+			"Weapon": "1. Crescent Pike\n2. Staff of Homa\n3. Primordial Jade Winged-Spear\n4. Calamity Queller\n5. Vortex Vanquisher\n6. Deathmatch\n7. White Tassel\n8. Blackcliff Pole\n9. Favonius Lance"
 		}
 	],
 	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Zhongli_icon.png"

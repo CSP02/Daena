@@ -1,0 +1,17 @@
+{
+    "Character_Name": "Kaedehara Kazuha",
+    "Character_Title": "Scarlet Leaves Pursue Wild Wave",
+    "Embed_Color": "#75c2aa",
+    "Role_Build": [
+        {
+            "Build_Name": "DPS_Build",
+            "Best_Artifacts_4x": "- Viridescent Venerer\n- Thundering Fury\n- Emblem of Severed Fate",
+            "Best_Artifacts_2x": "- Viridescent Venerer",
+            "Weapon": "- Xiphos' Moonlight\n- Freedom-Sworn\n- Primordial jade cutter\n- Mistsplitter\n- Fleuve Cendre Ferryman\n- Skyward blade\n- Sacrificial sword\n- Toukabou Shigure\n- Favonius sword\n- Lion's roar\n- Dark Iron Sword\n- Iron string",
+            "Main_Stats": "- Sands: EM/ER\n- Goblet: EM\n- Circlet: EM",
+			"Sub_Stats": "ER > EM >> ATK% = CRIT"
+        }
+    ],
+    "Team_Compositions": "",
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Kaedehara%2520Kazuha_icon.png"
+}

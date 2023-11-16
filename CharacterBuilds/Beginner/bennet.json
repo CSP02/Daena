@@ -7,7 +7,7 @@
 			"Build_Name": "Support_Build",
 			"Best_Artifacts_4x": "- Noblesse Oblige\n- Instructor\n- Tenacity of the Millelith",
 			"Best_Artifacts_2x": "- Emblem of Severed Fate",
-			"weapon": "- Aquila Favonia\n- Freedom Sworn\n- Alley Flash\n- Skyward Blade\n- Summit Shaper\n- Prototype Rancour\n- Blackcliff\n- Festering Desire\n- Sacrificial sword\n- Favonious sword",
+			"Weapon": "- Aquila Favonia\n- Freedom Sworn\n- Alley Flash\n- Skyward Blade\n- Summit Shaper\n- Prototype Rancour\n- Blackcliff\n- Festering Desire\n- Sacrificial sword\n- Favonious sword",
 			"Main_Stats": "ER or HP% / HP% / HP%",
 			"Sub_Stats": "ER > HP% > Flat HP "
 		},
@@ -15,7 +15,7 @@
 			"Build_Name": "DPS_Build",
 			"Best_Artifacts_4x": "- Crimson Witch of Flames\n- Thundering Fury\n- Noblesse Oblige\n- Lavawalker",
 			"Best_Artifacts_2x": "- Crimson Witch of Flames\n- Gladiator finale\n- Nobless Oblige\n- Wanderer's Troupe",
-			"weapon": "- Mistsplitter\n- Jade Cutter\n- Haran\n- Lion's Roar\n- Blackcliff\n- The Black Sword\n- Amenoma Kageuchi",
+			"Weapon": "- Mistsplitter\n- Jade Cutter\n- Haran\n- Lion's Roar\n- Blackcliff\n- The Black Sword\n- Amenoma Kageuchi",
 			"Main_Stats": "- Sands: EM ~ ATK% > ER\n- Goblet: Pyro DMG%\n- Circlet: CRIT Rate or CRIT Damage",
 			"Sub_Stats": "CRIT Rate ~ CRIT Damage > ATK% = EM = ER > HP%"
 		}

@@ -1,0 +1,17 @@
+{
+	"Character_Name": "Arataki Itto",
+	"Character_Title": "Hanamizaka Heroics",
+	"Embed_Color": "#ffb300",
+	"Role_Build": [
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": "- Shimenawa's Reminiscence\n- Retracing Bolide\n- Husk of Opulent Dreams\n- Heart of Depths",
+			"Best_Artifacts_2x": "- Archaic Petra/Husk of Opulent Dreams\n- Gladiator's Finale/Husk of Opulent Dreams",
+			"Weapon": "- Redhorn Stonethresher\n- Serpent Spine\n- Skyward Pride\n- Blackcliff Slasher\n- Whiteblind\n- Wolf's Gravestone\n- The Unforged\n- Sacrificial Greatsword",
+			"Mablain_Stats": "- Sands: DEF%\n- Goblet: Geo DMG%\n- Circlet: CRIT Rate/CRIT Damage",
+			"Sub_Stats": "ER% > CRIT DMG/Rate > DEF%"
+		}
+	],
+	"Team_Compositions": "",
+	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Arataki%2520Itto_icon.png"
+}

@@ -7,7 +7,7 @@
 			"Build_Name": "DPS_Build",
 			"Best_Artifacts_4x": "- Blizzard Strayer",
 			"Best_Artifacts_2x": "- Blizzard Strayer (2) +18% ATK set (2)\n- +18% ATK set (2) +18% ATK set (2)\n- Blizzard Strayer (2) Noblesse Oblige (2)",
-			"weapon": "- Mistsplitter Reforged\n- Haran Geppaku Futsu\n- Light of Foliar Incision\n- Primordial Jade Cutter\n- Summit Shaper\n- Finale of the Deep\n- Aquila Favonia\n- Skyward Blade\n- Amenoma Kageuchi\n- The Black Sword\n- Kagotsurube Isshin\n- Harbinger of Dawn",
+			"Weapon": "- Mistsplitter Reforged\n- Haran Geppaku Futsu\n- Light of Foliar Incision\n- Primordial Jade Cutter\n- Summit Shaper\n- Finale of the Deep\n- Aquila Favonia\n- Skyward Blade\n- Amenoma Kageuchi\n- The Black Sword\n- Kagotsurube Isshin\n- Harbinger of Dawn",
 			"Main_Stats": "- Sands: ATK%\n- Goblet: Cryo DMG%",
 			"Sub_Stats": "ER > CRIT DMG > ATK% >= CRIT Rate"
 		},
@@ -15,7 +15,7 @@
 			"Build_Name": "Support_Build",
 			"Best_Artifacts_4x": "You commited a crime",
 			"Best_Artifacts_2x": "Imagine using ayaka as support",
-			"weapon": "SMH go use ayaka as dps",
+			"Weapon": "SMH go use ayaka as dps",
 			"Main_Stats": "",
 			"Sub_Stats": ""
 		}

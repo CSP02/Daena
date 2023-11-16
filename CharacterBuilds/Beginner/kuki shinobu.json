@@ -1,0 +1,33 @@
+{
+    "Character_Name": "Kuki Shinobu",
+    "Character_Title": "Mender of Tribulations",
+    "Embed_Color": "#b08fc2",
+    "Role_Build": [
+        {
+            "Build_Name": "DPS_Build",
+            "Best_Artifacts_4x": "- Emblem of Severed Fate\n- Noblesse Oblige\n- Tenacity of the Millelith\n- Thundersoother\n- Thundering Fury\n- Gilded Dreams",
+            "Best_Artifacts_2x": "- 2pc Combos EM, ER, DMG%",
+            "Weapon": "- Primordial jade cutter\n- Mistsplitter\n- Haran\n- Skyward blade\n- Sacrificial sword\n- Key of Khaj-Nisut\n- Favonius sword\n- Lion's roar\n- Sapwood blade",
+            "Main_Stats": "- Sands: EM\n- Goblet: Electro DMG%\n- Circlet: CRIT DMG/CRIT Rate",
+			"Sub_Stats": "ER > EM ≥ CRIT Rate/DMG > HP%"
+        },
+        {
+            "Build_Name": "Support_Build",
+            "Best_Artifacts_4x": "- Flower of Paradise\n- Lost Gilded Dreams\n- Thundering Fury",
+            "Best_Artifacts_2x": "- 2pc EM + 2pc EM",
+            "Weapon": "- Freedom-Sworn\n- Key of Khaj-Nisut\n- Xiphos' Moonlight\n- Iron Sting\n- Toukabou Shigure",
+            "Main_Stats": "- Sands: EM\n- Goblet: EM\n- Circlet: EM",
+			"Sub_Stats": "EM"
+        },
+        {
+            "Build_Name": "Healer_Build",
+            "Best_Artifacts_4x":"- Tenacity of the Millelith\n- Ocean-Hued Clam",
+            "Best_Artifacts_2x":"- 2pc Maiden Beloved\n- 2pc Ocean-Hued Clam",
+            "Weapon": "- Freedom-Sworn\n- Key of Khaj-Nisut\n- Xiphos' Moonlight\n- Iron Sting\n- Toukabou Shigure\n- Favonius sword\n- Sapwood blade",
+            "Main_Stats": "- Sands: HP%/EM\n- Goblet: HP%/EM\n- Circlet: Healing bonus/HP%/EM",
+            "Sub_Stats": "HP% > EM > ER ≥ CRIT Rate/DMG"
+        }
+    ],
+    "Team_Compositions": "",
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Kuki%2520Shinobu_icon.png"
+}
