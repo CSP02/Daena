@@ -5,11 +5,34 @@
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": "- Emblem of Severed Fate\n- Tenacity of the Millelith\n- Thundersoother",
-            "Best_Artifacts_2x": "- Thundering fury\n- Shimenawa's Reminiscence\n- Gladiator finale\n- Emblem of severed fate",
-            "Weapon": "- Kagura's Verity\n- Skyward Atlas\n- Memory of Dust\n- Lost Prayer to the Sacred Winds\n- The Widsith\n- Oathsworn's Eye\n- Solar Pearl \n-Hakushin Ring\n- Mappa Mare\n- Favonius Codex",
-            "Main_Stats": "- Sands: ATK% or ER%\n- Goblet: Electro DMG%\n- Circlet: CRIT Rate% or CRIT DMG%",
-			"Sub_Stats": "ER% > CRIT Rate% = CRIT DMG% > ATK% > Flat ATK = EM"
+            "Best_Artifacts_4x": [
+                "Emblem of Severed Fate",
+                "Tenacity of the Millelith",
+                "Thundersoother"
+            ],
+            "Best_Artifacts_2x": [
+                "Thundering Fury",
+                "Shimenawa's Reminiscence",
+                "Gladiator finale",
+                "Emblem of Severed Fate"
+            ],
+            "Weapon": [
+                "Kagura's Verity",
+                "Skyward Atlas",
+                "Memory of Dust",
+                "Lost Prayer to the Sacred Winds",
+                "The Widsith",
+                "Oathsworn's Eye",
+                "Solar Pearl \n-Hakushin Ring",
+                "Mappa Mare",
+                "Favonius Codex"
+            ],
+            "Main_Stats": [
+                "Sands: ATK% or ER%",
+                "Goblet: Electro DMG%",
+                "Circlet: CRIT Rate% or CRIT DMG%"
+            ],
+            "Sub_Stats": "ER% > CRIT Rate% = CRIT DMG% > ATK% > Flat ATK = EM"
         }
     ],
     "Team_Compositions": "",

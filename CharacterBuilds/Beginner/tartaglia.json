@@ -5,19 +5,36 @@
 	"Role_Build": [
 		{
 			"Build_Name": "DPS_Build",
-			"Best_Artifacts_4x": "- Heart of Deapth\n- Shimenawa's Reminiscence",
-			"Best_Artifacts_2x": "- Heart of Deapth\n- Shimenawa's Reminiscence\n- Gladiator Finale\n- Nobless Oblige",
-			"Weapon": "- Thundering Pulse\n- Polar Star\n- Skyward Harp\n- Aqua Simulacra\n- Amos' Bow\n- Viridescent Hunt\n- Blackcliff Warbow\n- Mouun's Moon\n- Rust\n- Hamayumi\n- Prototype Crescent\n- Alley Hunter",
-			"Main_Stats": "- Sands: ATK%\n- Goblet: Hydro DMG%\n- Circlet: CRIT Dmg/CRIT Rate",
+			"Best_Artifacts_4x": [
+				"Heart of Depths",
+				"Shimenawa's Reminiscence"
+			],
+			"Best_Artifacts_2x": [
+				"Heart of Depths",
+				"Shimenawa's Reminiscence",
+				"Gladiator finale",
+				"Noblesse Oblige"
+			],
+			"Weapon": [
+				"Thundering Pulse",
+				"Polar Star",
+				"Skyward Harp",
+				"Aqua Simulacra",
+				"Amos' Bow",
+				"Viridescent Hunt",
+				"Blackcliff Warbow",
+				"Mouun's Moon",
+				"Rust",
+				"Hamayumi",
+				"Prototype Crescent",
+				"Alley Hunter"
+			],
+			"Main_Stats": [
+				"Sands: ATK%",
+				"Goblet: Hydro DMG%",
+				"Circlet: CRIT Dmg/CRIT Rate"
+			],
 			"Sub_Stats": "CRIT Rate / CRIT DMG > ATK% > EM > ER"
-		},
-		{
-			"Build_Name": "Support_Build",
-			"Best_Artifacts_4x": "Not yet coded",
-			"Best_Artifacts_2x": "Not yet coded",
-			"Weapon": "Not yet coded",
-			"Main_Stats": "",
-			"Sub_Stats": ""
 		}
 	],
 	"Team_Compositions": "",

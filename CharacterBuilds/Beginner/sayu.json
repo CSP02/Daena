@@ -1,0 +1,57 @@
+{
+	"Character_Name": "Sayu",
+	"Character_Title": "Mujina Ninja",
+	"Embed_Color": "#75c2aa",
+	"Role_Build": [
+		{
+			"Build_Name": "Support_Build",
+			"Best_Artifacts_4x": [
+				"Viridescent Venerer",
+				"Ocean-Hued Clam"
+			],
+			"Best_Artifacts_2x": [
+				"2pc mixed sets of ER% / EM / ATK% / Anemo DMG%"
+			],
+			"Weapon": [
+				"Skyward Pride",
+				"Favonius Greatsword",
+				"Katsuragikiri Nagamasa",
+				"Serpent Spine",
+				"Luxurious Sea-Lord / Akuoumaru",
+				"Sacrificial Greatsword"
+			],
+			"Main_Stats": [
+				"Sands: Elemental Mastery/Energy Recharge/ATK%",
+				"Goblet: Elemental Mastery/ATK%",
+				"Circlet: Healing bonus/Elemental Mastery/ATK%/CRIT"
+			],
+			"Sub_Stats": "ER (until requirements met) > ATK% ≥ EM"
+		},
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": [
+				"Viridescent Venerer",
+				"Deepwood Memories"
+			],
+			"Best_Artifacts_2x": [
+				"2pc mixed sets of ER% / EM / ATK% / Anemo DMG%"
+			],
+			"Weapon": [
+				"Skyward Pride",
+				"Favonius Greatsword",
+				"Katsuragikiri Nagamasa",
+				"Serpent Spine",
+				"Luxurious Sea-Lord / Akuoumaru",
+				"Sacrificial Greatsword"
+			],
+			"Main_Stats": [
+				"Sands: ATK%/EM",
+				"Goblet: Anemo DMG%/EM",
+                "Circlet: CRIT Rate/CRIT Damage/EM"
+			],
+			"Sub_Stats": "CRIT > EM = ATK%"
+		}
+	],
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Sayu_icon.png"
+}

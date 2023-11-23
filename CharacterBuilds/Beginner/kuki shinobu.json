@@ -5,26 +5,83 @@
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": "- Emblem of Severed Fate\n- Noblesse Oblige\n- Tenacity of the Millelith\n- Thundersoother\n- Thundering Fury\n- Gilded Dreams",
-            "Best_Artifacts_2x": "- 2pc Combos EM, ER, DMG%",
-            "Weapon": "- Primordial jade cutter\n- Mistsplitter\n- Haran\n- Skyward blade\n- Sacrificial sword\n- Key of Khaj-Nisut\n- Favonius sword\n- Lion's roar\n- Sapwood blade",
-            "Main_Stats": "- Sands: EM\n- Goblet: Electro DMG%\n- Circlet: CRIT DMG/CRIT Rate",
-			"Sub_Stats": "ER > EM ≥ CRIT Rate/DMG > HP%"
+            "Best_Artifacts_4x": [
+                "Emblem of Severed Fate",
+                "Noblesse Oblige",
+                "Tenacity of the Millelith",
+                "Thundersoother",
+                "Thundering Fury",
+                "Gilded Dreams"
+            ],
+            "Best_Artifacts_2x": [
+                "2pc Combos EM, ER, DMG%"
+            ],
+            "Weapon": [
+                "Primordial jade cutter",
+                "Mistsplitter",
+                "Haran",
+                "Skyward blade",
+                "Sacrificial sword",
+                "Key of Khaj-Nisut",
+                "Favonius sword",
+                "Lion's roar",
+                "Sapwood blade"
+            ],
+            "Main_Stats": [
+                "Sands: EM",
+                "Goblet: Electro DMG%",
+                "Circlet: CRIT DMG/CRIT Rate"
+            ],
+            "Sub_Stats": "ER > EM ≥ CRIT Rate/DMG > HP%"
         },
         {
             "Build_Name": "Support_Build",
-            "Best_Artifacts_4x": "- Flower of Paradise\n- Lost Gilded Dreams\n- Thundering Fury",
-            "Best_Artifacts_2x": "- 2pc EM + 2pc EM",
-            "Weapon": "- Freedom-Sworn\n- Key of Khaj-Nisut\n- Xiphos' Moonlight\n- Iron Sting\n- Toukabou Shigure",
-            "Main_Stats": "- Sands: EM\n- Goblet: EM\n- Circlet: EM",
-			"Sub_Stats": "EM"
+            "Best_Artifacts_4x": [
+                "Flower of Paradise Lost",
+                "Gilded Dreams",
+                "Thundering Fury"
+            ],
+            "Best_Artifacts_2x": [
+                "2pc EM + 2pc EM"
+            ],
+            "Weapon": [
+                "Freedom-Sworn",
+                "Key of Khaj-Nisut",
+                "Xiphos' Moonlight",
+                "Iron Sting",
+                "Toukabou Shigure"
+            ],
+            "Main_Stats": [
+                "Sands: EM",
+                "Goblet: EM",
+                "Circlet: EM"
+            ],
+            "Sub_Stats": "EM"
         },
         {
             "Build_Name": "Healer_Build",
-            "Best_Artifacts_4x":"- Tenacity of the Millelith\n- Ocean-Hued Clam",
-            "Best_Artifacts_2x":"- 2pc Maiden Beloved\n- 2pc Ocean-Hued Clam",
-            "Weapon": "- Freedom-Sworn\n- Key of Khaj-Nisut\n- Xiphos' Moonlight\n- Iron Sting\n- Toukabou Shigure\n- Favonius sword\n- Sapwood blade",
-            "Main_Stats": "- Sands: HP%/EM\n- Goblet: HP%/EM\n- Circlet: Healing bonus/HP%/EM",
+            "Best_Artifacts_4x": [
+                "Tenacity of the Millelith",
+                "Ocean-Hued Clam"
+            ],
+            "Best_Artifacts_2x": [
+                "2pc Maiden Beloved",
+                "2pc Ocean-Hued Clam"
+            ],
+            "Weapon": [
+                "Freedom-Sworn",
+                "Key of Khaj-Nisut",
+                "Xiphos' Moonlight",
+                "Iron Sting",
+                "Toukabou Shigure",
+                "Favonius sword",
+                "Sapwood blade"
+            ],
+            "Main_Stats": [
+                "Sands: HP%/EM",
+                "Goblet: HP%/EM",
+                "Circlet: Healing bonus/HP%/EM"
+            ],
             "Sub_Stats": "HP% > EM > ER ≥ CRIT Rate/DMG"
         }
     ],

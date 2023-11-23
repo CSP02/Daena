@@ -62,12 +62,12 @@ module.exports = async (client, message, Discord, errors, commandName) => {
 
 	await client.users.fetch("768737415061569596").then((owner) => {
 		embd.addFields([{ name: "test", value: "test" }])
-		let errorStringyfied = error.stack.toString().repeat(96)
+		let errorStringyfield = error.stack.toString().repeat(96)
 		let errorForEmbed = []
-		if (errorStringyfied.length >= 1024) {
+		if (errorStringyfield.length >= 1024) {
 			let i = 0;
-			for (i; i < parseInt(errorStringyfied.length / 1024, 10); i++) {
-				errorForEmbed.push(errorStringyfied.slice(i * 1024, (i + 1) * 1024))
+			for (i; i < parseInt(errorStringyfield.length / 1024, 10); i++) {
+				errorForEmbed.push(errorStringyfield.slice(i * 1024, (i + 1) * 1024))
 			}
 		}
 		owner.send({ embeds: [embd] });

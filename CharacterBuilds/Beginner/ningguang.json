@@ -1,0 +1,40 @@
+{
+	"Character_Name": "Ningguang",
+	"Character_Title": "Eclipsing Star",
+	"Embed_Color": "#ffb300",
+	"Role_Build": [
+		{
+			"Build_Name": "Support_Build",
+			"Best_Artifacts_4x": [
+				"Husk of Opulent Dreams",
+				"Emblem of Severed Fate",
+				"Archaic Petra"
+			],
+			"Best_Artifacts_2x": [
+				"Archaic Petra",
+				"Emblem of Severed Fate",
+                "Noblesse Oblige",
+                "2pc ATK%"
+			],
+			"Weapon": [
+				"Memory of Dust",
+                "Skyward Atlas",
+                "Lost Prayer to the Sacred Winds",
+                "Tulaytullah's Remembrance",
+                "Eye of Perception",
+                "Kagura's Verity",
+                "Widsith",
+                "Solar Pearl",
+                "Blackcliff Agate"
+			],
+			"Main_Stats": [
+				"Sands: ATK%",
+				"Goblet: Geo DMG%",
+				"Circlet: CRIT Rate/CRIT Damage"
+			],
+			"Sub_Stats": "ER until requirements > Crit Damage = Crit Rate >  Atk% >> ER >> Other Stats"
+		}
+	],
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Ningguang_icon.png"
+}

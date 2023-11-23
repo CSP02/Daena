@@ -8,18 +8,31 @@
 			"Best_Artifacts_4x": "Coming soon",
 			"Best_Artifacts_2x": "Coming soon",
 			"Weapon": "Coming soon",
-			"Main_Stats": "",
-			"Sub_Stats": ""
+			"Main_Stats": "NA",
+			"Sub_Stats": "NA"
 		},
 		{
 			"Build_Name": "Support_Build",
-			"Best_Artifacts_4x": "Coming soon",
-			"Best_Artifacts_2x": "Coming soon",
-			"Weapon": "Coming soon",
-			"Main_Stats": "",
-			"Sub_Stats": ""
+			"Best_Artifacts_4x": [
+				"Golden troupe",
+				"Tenacity of the Millelith"
+			],
+			"Best_Artifacts_2x": [
+				"Golden troupe",
+				"Tenacity of the Millelith",
+				"any artifact that scales on hp"
+			],
+			"Weapon": [
+				"key of khaj nisut",
+				"The Dockhand's Assistant"
+			],
+			"Main_Stats": [
+				"Sands: hp\n Goblet: hp",
+				"CRIT"
+			],
+			"Sub_Stats": "ER > CRIT > HP% > HP"
 		}
 	],
-	"Team_Compositions": "",
-	"Character_Image_URL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/25/151578876/23e355600e10c9330225fc0c62ac1aa0_397704867526120859-png?x-oss-process=image%2Fformat%2Cwebp"
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/4da8d9d663e2e59f63c19815074074de.png"
 }

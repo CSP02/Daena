@@ -1,0 +1,71 @@
+{
+    "Character_Name": "Ganyu",
+    "Character_Title": "Plenilune Gaze",
+    "Embed_Color": "#4682B4",
+    "Role_Build": [
+        {
+            "Build_Name": "DPS_Build",
+            "Best_Artifacts_4x": [
+                "Wanderer's Troupe",
+                "Shimenawa's Reminiscence",
+                "Blizzard Strayer"
+            ],
+            "Best_Artifacts_2x": [
+                "Wanderer's Troupe",
+                "Blizzard Strayer",
+                "Gladiator Finale",
+                "Shimenawa's Reminiscence",
+                "Noblesse Oblige"
+            ],
+            "Weapon": [
+                "Amos' Bow",
+                "The First Great Magic",
+                "Polar Star",
+                "Aqua Simulacra",
+                "Hunter's Path",
+                "Prototype Crescent",
+                "Hamayumi",
+                "Scion of the Blazing Sun",
+                "Blackcliff Warbow"
+            ],
+            "Main_Stats": [
+                "Sands: EM > ATK%",
+                "Goblet: Cryo DMG Bonus",
+                "Circlet: CRIT DMG / CRIT Rate"
+            ],
+            "Sub_Stats": "ER > CRIT DMG ≥ ATK% > CRIT Rate"
+        },
+        {
+            "Build_Name": "Support_Build",
+            "Best_Artifacts_4x": [
+                "Emblem of Severed Fate",
+                "Blizzard Strayer",
+                "Noblesse Oblige"
+            ],
+            "Best_Artifacts_2x": [
+                "Emblem of severed fate",
+                "Blizzard Strayer",
+                "Noblesse Oblige"
+            ],
+            "Weapon": [
+                "Amos' Bow",
+                "The First Great Magic",
+                "Polar Star",
+                "Aqua Simulacra",
+                "Hunter's Path",
+                "Prototype Crescent",
+                "Hamayumi",
+                "Scion of the Blazing Sun",
+                "Blackcliff Warbow"
+            ],
+            "Main_Stats": [
+                "Sands: EM > ATK%",
+                "Goblet: Cryo DMG Bonus",
+                "Circlet: CRIT DMG / CRIT Rate"
+            ],
+            "Sub_Stats": "ER > CRIT DMG ≥ ATK% > CRIT Rate"
+        }
+    ],
+    "Team_Compositions": "NA",
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Ganyu_icon.png"
+}

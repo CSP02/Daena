@@ -1,0 +1,38 @@
+{
+	"Character_Name": "Yoimiya",
+	"Character_Title": "Frolicking Flames",
+	"Embed_Color": "#ef7a35",
+	"Role_Build": [
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": [
+				"Crimson Witch of Flames",
+                "Shimenawa's Reminiscence",
+				"Retracing Bolide",
+				"Echoes of the Offering"
+			],
+			"Best_Artifacts_2x": [
+				"Crimson Witch of Flames",
+				"Shimenawa's Reminiscence",
+				"Wanderer's Troupe"
+			],
+			"Weapon": [
+				"Thundering Pulse",
+				"Rust",
+				"Aqua Simulacra",
+				"Polar Star",
+				"Slingshot",
+				"Skyward Harp",
+				"Amos Bow"
+			],
+			"Main_Stats": [
+				"Sands: EM/ATK%",
+				"Goblet: Pyro DMG%",
+				"Circlet: CRIT Rate or CRIT Damage"
+			],
+			"Sub_Stats": "CRIT > ATK/EM > ER"
+		}
+	],
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Yoimiya_icon.png"
+}

@@ -1,0 +1,37 @@
+{
+	"Character_Name": "Neuvillette ||some fans call him otterman||",
+	"Character_Title": "Ordainer of Inexorable Judgment",
+	"Embed_Color": "#00BFFF",
+	"Role_Build": [
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": [
+				"Marechaussee Hunter",
+				"Heart of Depth",
+                "Retracing Bolide",
+                "Wanderer's Troupe",
+                "Nymph's Dream"
+			],
+			"Best_Artifacts_2x": [
+				"Marechaussee Hunter",
+				"Tenacity of the Millelith",
+                "Heart of Depth",
+				"any artifact that scales on hp/Hydro DMG bonus"
+			],
+			"Weapon": [
+                "Tome of the Eternal Flow",
+                "Sacrificial Jade",
+                "Prototype Amber",
+                "Lost Prayer to the Sacred Winds"
+			],
+			"Main_Stats": [
+                "Sands: HP%",
+                "Goblet: Hydro DMG Bonus/HP%",
+                "Circlet: CRIT DMG/CRIT Rate/HP%"
+            ],
+			"Sub_Stats": "ER > CRIT = HP% > Flat HP"
+		}
+	],
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/965af2f32a5376affcb99afb9915a23d.png"
+}

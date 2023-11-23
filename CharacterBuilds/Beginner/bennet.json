@@ -5,18 +5,61 @@
 	"Role_Build": [
 		{
 			"Build_Name": "Support_Build",
-			"Best_Artifacts_4x": "- Noblesse Oblige\n- Instructor\n- Tenacity of the Millelith",
-			"Best_Artifacts_2x": "- Emblem of Severed Fate",
-			"Weapon": "- Aquila Favonia\n- Freedom Sworn\n- Alley Flash\n- Skyward Blade\n- Summit Shaper\n- Prototype Rancour\n- Blackcliff\n- Festering Desire\n- Sacrificial sword\n- Favonious sword",
-			"Main_Stats": "ER or HP% / HP% / HP%",
+			"Best_Artifacts_4x": [
+				"Noblesse Oblige",
+				"Instructor",
+				"Tenacity of the Millelith"
+			],
+			"Best_Artifacts_2x": [
+				"Emblem of Severed Fate"
+			],
+			"Weapon": [
+				"Aquila Favonia",
+				"Freedom Sworn",
+				"Alley Flash",
+				"Skyward Blade",
+				"Summit Shaper",
+				"Prototype Rancour",
+				"Blackcliff",
+				"Festering Desire",
+				"Sacrificial sword",
+				"Favonious sword"
+			],
+			"Main_Stats": [
+				"Sands: ER or HP%",
+				"Goblet: HP%",
+				"Circlet: HP%"
+			],
 			"Sub_Stats": "ER > HP% > Flat HP "
 		},
 		{
 			"Build_Name": "DPS_Build",
-			"Best_Artifacts_4x": "- Crimson Witch of Flames\n- Thundering Fury\n- Noblesse Oblige\n- Lavawalker",
-			"Best_Artifacts_2x": "- Crimson Witch of Flames\n- Gladiator finale\n- Nobless Oblige\n- Wanderer's Troupe",
-			"Weapon": "- Mistsplitter\n- Jade Cutter\n- Haran\n- Lion's Roar\n- Blackcliff\n- The Black Sword\n- Amenoma Kageuchi",
-			"Main_Stats": "- Sands: EM ~ ATK% > ER\n- Goblet: Pyro DMG%\n- Circlet: CRIT Rate or CRIT Damage",
+			"Best_Artifacts_4x": [
+				"Crimson Witch of Flames",
+				"Thundering Fury",
+				"Noblesse Oblige",
+				"Lavawalker"
+			],
+			"Best_Artifacts_2x": [
+				"Crimson Witch of Flames",
+				"Gladiator finale",
+				"Noblesse Oblige",
+				"Wanderer's Troupe"
+			],
+			"Weapon": [
+				"Mistsplitter",
+				"Jade Cutter",
+				"Haran",
+				"Lion's Roar",
+				"Blackcliff",
+				"The Black Sword",
+				"Amenoma Kageuchi"
+			],
+			"Main_Stats": [
+				"Sands: EM ~ ATK% > ER",
+				"Goblet: Pyro DMG%",
+				"Circlet: CRIT Rate or CRIT Damage"
+			],
 			"Sub_Stats": "CRIT Rate ~ CRIT Damage > ATK% = EM = ER > HP%"
 		}
 	],

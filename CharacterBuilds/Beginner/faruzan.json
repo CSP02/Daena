@@ -1,0 +1,63 @@
+{
+    "Character_Name": "Faruzan",
+    "Character_Title": "Enigmatic Machinist",
+    "Embed_Color": "#75c2aa",
+    "Role_Build": [
+        {
+            "Build_Name": "Support_Build",
+            "Best_Artifacts_4x": [
+                "Viridescent Venerer",
+                "The Exile"
+            ],
+            "Best_Artifacts_2x": [
+                "Emblem of Severed Fate",
+                "Instructor"
+            ],
+            "Weapon": [
+                "Elegy for the End",
+                "Polar Star",
+                "Prototype Crescent",
+                "Favonius Warbow",
+                "Skyward Harp",
+                "Thundering Pulse",
+                "Aqua Simulacra",
+                "Hunter's Path",
+                "Amos' Bow"
+            ],
+            "Main_Stats": [
+                "Sands: ER",
+                "Goblet: Anything with ER sub stat",
+                "Circlet: Anything or crit rate"
+            ],
+            "Sub_Stats": "ER > CRIT Rate > CRIT DMG = ATK%"
+        },
+        {
+            "Build_Name": "DPS_Build",
+            "Best_Artifacts_4x": [
+                "Noblesse Oblige",
+                "Viridescent Venerer",
+                "The Exile"
+            ],
+            "Best_Artifacts_2x": [
+                "Emblem of Severed Fate",
+                "The Exile"
+            ],
+            "Weapon": [
+                "Polar Star",
+                "Aqua Simulacra",
+                "Skyward Harp",
+                "Hunter's Path",
+                "Prototype Crescent",
+                "Thundering Pulse"
+            ],
+            "Main_Stats": [
+                "Sands: EM",
+                "Goblet: EM",
+                "Circlet: EM"
+            ],
+            "Sub_Stats": "ER > CRIT Rate > CRIT DMG = ATK%"
+        }
+    ],
+    "Team_Compositions": "NA",
+    "Character_Image_URL": "https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/c9a1822cd130f4389299b52138015316.png"
+}

@@ -1,0 +1,37 @@
+{
+	"Character_Name": "Wriothesley ||some fans and people call him rizzley||",
+	"Character_Title": "Emissary of Solitary Iniquity",
+	"Embed_Color": "#4682B4",
+	"Role_Build": [
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": [
+                "Marechaussee Hunter",
+                "Shimenawa's Reminiscence",
+                "Blizzard Strayer"
+            ],
+			"Best_Artifacts_2x": [
+                "Marechaussee Hunter",
+                "Blizzard Strayer",
+                "Any ATK artifact sets"
+            ],
+			"Weapon": [
+                "Cashflow Supervision",
+                "Tulaytullah's Remembrance",
+                "Flowing Purity",
+                "Ballad of the Boundless Blue",
+                "The Widsith",
+                "Eye of Perception",
+                "Frostbearer"
+            ],
+			"Main_Stats": [
+                "Sands: ATK% or EM",
+                "Goblet: Cryo DMG Bonus",
+                "Circlet: CRIT DMG / CRIT Rate"
+            ],
+			"Sub_Stats": "CRIT > ATK% = EM (Reverse Melt) > ER"
+		}
+	],
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/e2ea36ecfdb6f53717b1cadd394fbf49.png"
+}

@@ -1,0 +1,36 @@
+{
+	"Character_Name": "Hu Tao",
+	"Character_Title": "Fragrance in Thaw",
+	"Embed_Color": "#ef7a35",
+	"Role_Build": [
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": [
+				"Crimson Witch of Flames",
+				"Shimenawa's Reminiscence",
+				"Gilded Dreams"
+			],
+			"Best_Artifacts_2x": [
+				"Crimson Witch of Flames",
+				"Tenacity of the Millelith",
+				"Wanderer's Troupe"
+			],
+			"Weapon": [
+				"Staff of Homa",
+				"Staff of the Scarlet Sands",
+				"Ballad of the Fjords",
+				"Dragon's Bane",
+				"Deathmatch",
+				"Lithic Spear"
+			],
+			"Main_Stats": [
+				"Sands: EM/HP%",
+				"Goblet: Pyro DMG%",
+				"Circlet: CRIT Rate or CRIT Damage"
+			],
+			"Sub_Stats": "EM to ~100-150 > CRIT > EM to 200-300 > HP% > ATK% > Flat HP = Flat ATK > ER%"
+		}
+	],
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/99fdace5e5cb143fcc8b609c41c17ed5.png"
+}

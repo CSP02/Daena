@@ -1,0 +1,44 @@
+{
+	"Character_Name": "Shenhe",
+	"Character_Title": "Lonesome Transcendence",
+	"Embed_Color": "#4682B4",
+	"Role_Build": [
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": [
+                "Noblesse Oblige",
+                "Emblem of Severed Fate",
+                "Tenacity of the Millelith",
+                "Blizzard Strayer"
+            ],
+			"Best_Artifacts_2x": [
+                "Shimenawa's Reminiscence",
+                "Gladiator Finale",
+                "Emblem of Severed Fate",
+                "Noblesse Oblige",
+                "Blizzard Strayer"
+            ],
+			"Weapon": [
+                "Calamity Queller",
+                "Favonius Lance",
+                "Engulfing Lightning",
+                "Skyward Spine",
+                "Vortex Vanquisher",
+                "Wavebreaker's Fin",
+                "Primordial Jade Winged-Spear",
+                "Staff of the Scarlet Sands",
+                "Lithic Spear",
+                "The Catch R5",
+                "Deathmatch"
+            ],
+			"Main_Stats": [
+                "Sands: ATK% / ER%",
+                "Goblet: ATK% > Cryo DMG%",
+                "Circlet: ATK% > CRIT%"
+            ],
+			"Sub_Stats": "ER > ATK% > CRIT Rate% ≥ CRIT DMG% >> Flat ATK"
+		}
+	],
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Shenhe_icon.png"
+}

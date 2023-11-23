@@ -1,0 +1,38 @@
+{
+    "Character_Name": "Yelan",
+    "Character_Title": "Valley Orchid",
+    "Embed_Color": "#00BFFF",
+    "Role_Build": [
+        {
+            "Build_Name": "DPS_Build",
+            "Best_Artifacts_4x": [
+                "Emblem of Severed Fate"
+            ],
+            "Best_Artifacts_2x": [
+                "Emblem of Severed Fate",
+                "Tenacity of The Millelith",
+                "Noblesse Oblige",
+                "Heart of Depth"
+            ],
+            "Weapon": [
+                "Aqua Simulacra",
+                "Elegy for the End",
+                "Favonius Warbow",
+                "Mouun's Moon",
+                "The Stringless",
+                "Slingshot",
+                "Fading Twilight",
+                "Sacrificial Bow",
+                "Recurve Bow"
+            ],
+            "Main_Stats": [
+                "Sands: HP% / ER%",
+                "Goblet: Hydro DMG% / HP%",
+                "Circlet: CRIT% / HP%"
+            ],
+            "Sub_Stats": "ER% > CRIT = HP% > Flat HP"
+        }
+    ],
+    "Team_Compositions": "NA",
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Yelan_icon.png"
+}

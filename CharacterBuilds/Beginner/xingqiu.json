@@ -5,19 +5,31 @@
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": "- Emblem of Severed Fate\n- Noblesse Oblige\n- Nymph's Dream",
-            "Best_Artifacts_2x": "- 2pc Combos ER, ATK%, Hydro DMG%, Burst DMG%",
-            "Weapon": "- Primordial jade cutter\n- Mistsplitter\n- Haran\n- Skyward blade\n- Sacrificial sword\n- Fleuve Cendre Ferryman\n- Favonious sword\n- Lion's roar\n- Sapwood blade",
-            "Main_Stats": "- Sands: ATK% or ER%\n- Goblet: Hydro DMG%\n- Circlet: CRIT DMG/CRIT Rate",
-			"Sub_Stats": "ER% > CRIT Rate = CRIT DMG > ATK%"
-        },
-        {
-            "Build_Name": "Support_Build",
-            "Best_Artifacts_4x": "",
-            "Best_Artifacts_2x": "",
-            "Weapon": "",
-            "Main_Stats": "",
-			"Sub_Stats": ""
+            "Best_Artifacts_4x": [
+                "Emblem of Severed Fate",
+                "Noblesse Oblige",
+                "Nymph's Dream"
+            ],
+            "Best_Artifacts_2x": [
+                "2pc Combos ER, ATK%, Hydro DMG%, Burst DMG%"
+            ],
+            "Weapon": [
+                "Primordial jade cutter",
+                "Mistsplitter",
+                "Haran",
+                "Skyward blade",
+                "Sacrificial sword",
+                "Fleuve Cendre Ferryman",
+                "Favonious sword",
+                "Lion's roar",
+                "Sapwood blade"
+            ],
+            "Main_Stats": [
+                "Sands: ATK% or ER%",
+                "Goblet: Hydro DMG%",
+                "Circlet: CRIT DMG/CRIT Rate"
+            ],
+            "Sub_Stats": "ER% > CRIT Rate = CRIT DMG > ATK%"
         }
     ],
     "Team_Compositions": "",

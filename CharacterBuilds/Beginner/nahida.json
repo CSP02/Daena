@@ -5,25 +5,60 @@
 	"Role_Build": [
 		{
 			"Build_Name": "Support_Build",
-			"Best_Artifacts_4x": "- Deepwood Memories\n- Gilded Dreams\n- Tenacity of the Millelith\n- Instructor\n- Noblesse Oblige\n- Flower of Paradise Lost",
-			"Best_Artifacts_2x": "- Any 2x combination of EM/Dendro DMG %",
-			"Weapon": "- A Thousand Floating Dreams\n- Kagura's Verity\n- Sacrificial Fragments\n- Wandering Evenstar\n- The Widsith\n- Lost Prayer to the Sacred Winds\n- Solar Pearl\n- Favonius Codex\n- Mappa Mare\n- Hakushin Ring\n- Prototype Amber\n- Thrilling Tales of Dragon Slayers",
-			"Main_Stats": "- Sands : Elemental Mystery\n- Goblet: Elemental Mystery or dendro dmg bonus\n- Circlet : Elemental Mystery or crit rate/damage",
+			"Best_Artifacts_4x": [
+				"Deepwood Memories",
+				"Gilded Dreams",
+				"Tenacity of the Millelith",
+				"Instructor",
+				"Noblesse Oblige",
+				"Flower of Paradise Lost"
+			],
+			"Best_Artifacts_2x": [
+				"Any 2x combination of EM/Dendro DMG %"
+			],
+			"Weapon": [
+				"A Thousand Floating Dreams",
+				"Kagura's Verity",
+				"Sacrificial Fragments",
+				"Wandering Evenstar",
+				"The Widsith",
+				"Lost Prayer to the Sacred Winds",
+				"Solar Pearl",
+				"Favonius Codex",
+				"Mappa Mare",
+				"Hakushin Ring",
+				"Prototype Amber",
+				"Thrilling Tales of Dragon Slayers"
+			],
+			"Main_Stats": [
+				"Sands : Elemental Mystery",
+				"Goblet: Elemental Mystery or dendro dmg bonus",
+				"Circlet : Elemental Mystery or crit rate/damage"
+			],
 			"Sub_Stats": "Elemental Mystery > Energy Recharge > CRIT Rate = CRIT damage"
 		}
 	],
 	"Team_Compositions": [
 		{
 			"Team_Name": "Hyperbloom",
-			"Team": "- nahida, yelan, raiden, zhongli\n- nahida, xingqiu, kuki shinobu, yao yao"
+			"Team": [
+				"nahida, yelan, raiden, zhongli",
+				"nahida, xingqiu, kuki shinobu, yao yao"
+			]
 		},
 		{
 			"Team_Name": "Nilou bloom",
-			"Team": "- nilou, nahida, yelan, kokomi\n- nilou, nahida, xingqiu, barbara"
+			"Team": [
+				"nilou, nahida, yelan, kokomi",
+				"nilou, nahida, xingqiu, barbara"
+			]
 		},
 		{
 			"Team_Name": "On-field quicken",
-			"Team": "- nahida, fischl, yae miko, kazuha\n- nahida, fischl, beidou, jean/sayu"
+			"Team": [
+				"nahida, fischl, yae miko, kazuha",
+				"nahida, fischl, beidou, jean/sayu"
+			]
 		}
 	],
 	"Character_Image_URL": "https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/658bdb9a838ece5bd1d2b5e8bfadbe3-png"

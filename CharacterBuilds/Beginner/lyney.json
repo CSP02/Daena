@@ -1,0 +1,44 @@
+{
+	"Character_Name": "Lyney",
+	"Character_Title": "Spectacle of Phantasmagoria",
+	"Embed_Color": "#ef7a35",
+	"Role_Build": [
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": [
+				"Marechaussee Hunter",
+				"Vermillion Hereafter",
+				"Shimenawa's Reminiscence",
+				"Lavawalker",
+                "Wanderer's Troupe",
+                "Retracing Bolide",
+                "Desert Pavilion Chronicle"
+			],
+			"Best_Artifacts_2x": [
+				"Crimson Witch of Flames",
+				"Marechaussee Hunter",
+				"Any artifact set that gives 18% ATK%"
+			],
+			"Weapon": [
+				"The First Great Magic",
+				"Aqua Simulacra",
+				"Thundering Pulse",
+				"Skyward Harp",
+				"Amos' Bow",
+				"Song of Stillness",
+				"Prototype Crescent",
+                "Polar Star",
+                "Hunter's Path",
+                "Blackcliff Warbow"
+			],
+			"Main_Stats": [
+				"Sands: ATK%",
+				"Goblet: Pyro DMG%",
+				"Circlet: CRIT Rate or CRIT Damage"
+			],
+			"Sub_Stats": "CRIT > ATK% > Flat ATK ≥ ER%"
+		}
+	],
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/15c0fae62ec91222148b753e5445c5fe.png"
+}

@@ -5,11 +5,34 @@
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": "- Viridescent Venerer\n- Thundering Fury\n- Emblem of Severed Fate",
-            "Best_Artifacts_2x": "- Viridescent Venerer",
-            "Weapon": "- Xiphos' Moonlight\n- Freedom-Sworn\n- Primordial jade cutter\n- Mistsplitter\n- Fleuve Cendre Ferryman\n- Skyward blade\n- Sacrificial sword\n- Toukabou Shigure\n- Favonius sword\n- Lion's roar\n- Dark Iron Sword\n- Iron string",
-            "Main_Stats": "- Sands: EM/ER\n- Goblet: EM\n- Circlet: EM",
-			"Sub_Stats": "ER > EM >> ATK% = CRIT"
+            "Best_Artifacts_4x": [
+                "Viridescent Venerer",
+                "Thundering Fury",
+                "Emblem of Severed Fate"
+            ],
+            "Best_Artifacts_2x": [
+                "Viridescent Venerer"
+            ],
+            "Weapon": [
+                "Xiphos' Moonlight",
+                "Freedom-Sworn",
+                "Primordial jade cutter",
+                "Mistsplitter",
+                "Fleuve Cendre Ferryman",
+                "Skyward blade",
+                "Sacrificial sword",
+                "Toukabou Shigure",
+                "Favonius sword",
+                "Lion's roar",
+                "Dark Iron Sword",
+                "Iron string"
+            ],
+            "Main_Stats": [
+                "Sands: EM/ER",
+                "Goblet: EM",
+                "Circlet: EM"
+            ],
+            "Sub_Stats": "ER > EM >> ATK% = CRIT"
         }
     ],
     "Team_Compositions": "",
