@@ -1,0 +1,42 @@
+{
+	"Character_Name": "Albedo",
+	"Character_Title": "Kreideprinz",
+	"Embed_Color": "#ffb300",
+	"Role_Build": [
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": [
+				"Husk of Opulent Dreams",
+                "Golden troupe",
+				"Tenacity of the Millelith",
+				"Noblesse Oblige",
+                "Instructor"
+			],
+			"Best_Artifacts_2x": [
+				"Husk of Opulent Dreams",
+                "Golden troupe",
+                "Archaic Petra"
+			],
+			"Weapon": [
+				"Cinnabar Spindle",
+				"Harbinger of Dawn",
+				"Wolf-Fang",
+				"Primordial Jade Cutter",
+				"Light of Foliar Incision",
+				"Haran Geppaku Futsu",
+				"Mistsplitter Reforged",
+				"Festering Desire",
+				"Traveler's Handy Sword",
+                "Freedom-Sworn"
+			],
+			"Main_Stats": [
+				"Sands: DEF%",
+				"Goblet: Geo DMG%",
+				"Circlet: CRIT Rate/CRIT Damage"
+			],
+			"Sub_Stats": "CRIT Rate/DMG% > DEF% > ATK%"
+		}
+	],
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Albedo_icon.png"
+}

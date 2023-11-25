@@ -8,16 +8,12 @@ module.exports = {
 	async execute(client, interaction, Discord) {
 		const embed = new Discord.EmbedBuilder()
 			.setTitle("Credits:")
-
-		interaction.reply(`
-	# Credits:
- All the data you are seeing is not mine alone. These are the people and website that helped me to get this data.\n
- - [keqingmains.com](<https://keqingmains.com/>)\n
- - <@759017810579554305>\n
- - [Doro44's builds](<https://docs.google.com/spreadsheets/d/1gNxZ2xab1J6o1TuNVWMeLOZ7TPOqrsf3SshP5DLvKzI/htmlview?pru=AAABdkVJl4s*eC47qzHPDbWJislvvA5glg#>)\n
- - <@198514998639722496>\n
- - <@304969718823911425>\n
- - <@975932107840974919>\n
- - <@323683376160702466>`);
+			.setDescription("All the data you are seeing is not mine alone. These are the people and website that helped me to get this data.")
+			.setColor("#F8FFAE")
+			.addFields(
+				{name: "Websites and documents:", value: "- [keqingmains.com](<https://keqingmains.com/>)\n- [Doro44's builds](<https://docs.google.com/spreadsheets/d/1gNxZ2xab1J6o1TuNVWMeLOZ7TPOqrsf3SshP5DLvKzI/htmlview?pru=AAABdkVJl4s*eC47qzHPDbWJislvvA5glg#>)"},
+				{name: "People helped me on data and some ideas(all are discord users):", value: "- <@759017810579554305>\n- <@198514998639722496>\n- <@304969718823911425>\n- <@975932107840974919>\n- <@323683376160702466>"}
+			)
+			interaction.reply({embeds: [embed]});
 	}
 };

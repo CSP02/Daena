@@ -1,0 +1,41 @@
+{
+	"Character_Name": "Alhaitham",
+	"Character_Title": "Admonishing Instruction",
+	"Embed_Color": "#a6c938",
+	"Role_Build": [
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": [
+				"Deepwood Memories",
+				"Gilded Dreams"
+			],
+			"Best_Artifacts_2x": [
+				"Deepwood Memories",
+				"Gilded Dreams",
+                "Emblem of Severed Fate"
+			],
+			"Weapon": [
+				"Light of Foliar Incision",
+				"Primordial Jade Cutter",
+				"Mistsplitter Reforged",
+				"Haran Geppaku Futsu",
+				"Freedom Sworn",
+				"The Black Sword",
+				"Toukabou Shigure",
+				"Iron Sting",
+				"Xiphos' Moonlight",
+				"Harbinger of Dawn",
+				"Favonius Sword",
+				"Festering Desire"
+			],
+			"Main_Stats": [
+				"Sands : EM > ATK%",
+				"Goblet: Dendro DMG%",
+				"Circlet : CRIT Rate or CRIT DMG"
+			],
+			"Sub_Stats": "ER > EM > CRIT > EM > ATK% > Flat ATK"
+		}
+	],
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/dd374006467231503891f52912e6b674.png"
+}

@@ -1,0 +1,39 @@
+{
+	"Character_Name": "Kamisato Ayato",
+	"Character_Title": "Pillar of Fortitude",
+	"Embed_Color": "#00BFFF",
+	"Role_Build": [
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": [
+				"Heart of Depth",
+				"Gladiator's Finale",
+                "Echoes of an Offering"
+			],
+			"Best_Artifacts_2x": [
+				"Heart of Depth",
+				"Emblem of Severed Fate",
+				"Shimenawa's Reminiscene"
+			],
+			"Weapon": [
+				"Haran Geppaku Futsu",
+				"Primordial Jade Cutter",
+                "Mistsplitter Reforged",
+                "The Black Sword",
+                "Summit Shaper",
+                "Lion's Roar",
+                "Isshin Sword",
+                "Skyward Blade",
+                "Amenoma Kageuchi"
+			],
+			"Main_Stats": [
+				"Sands: ATK% or ER%", 
+                "Goblet: Hydro DMG% Bonus",
+				"Circclet: CRIT Rate or CRIT DMG"
+			],
+			"Sub_Stats": "ER > CRIT Rate = CRIT DMG > ATK% > HP% > Flat ATK > Flat HP"
+		}
+	],
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Kamisato%2520Ayato_icon.png"
+}

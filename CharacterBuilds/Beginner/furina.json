@@ -27,8 +27,9 @@
 				"The Dockhand's Assistant"
 			],
 			"Main_Stats": [
-				"Sands: hp\n Goblet: hp",
-				"CRIT"
+				"Sands: hp",
+				"Goblet: hp",
+				"Circlet: CRIT"
 			],
 			"Sub_Stats": "ER > CRIT > HP% > HP"
 		}

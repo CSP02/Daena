@@ -1,0 +1,39 @@
+{
+    "Character_Name": "Cyno",
+    "Character_Title": "Judicator of Secrets",
+    "Embed_Color": "#b08fc2",
+    "Role_Build": [
+        {
+            "Build_Name": "DPS_Build",
+            "Best_Artifacts_4x": [
+                "Thundering Fury",
+                "Thundersoother",
+                "Gilded Dreams",
+                "Gladiator's Finale"
+            ],
+            "Best_Artifacts_2x": [
+                "Thundering Fury",
+                "Emblem of Severed Fate",
+                "Wanderer's troupe",
+                "Gladiator's Finale"
+            ],
+            "Weapon": [
+                "Staff of the Scarlet Sands",
+                "Primordial jade Winged Spear",
+                "Staff of Homa",
+                "Deathmatch",
+                "White Tassel",
+                "Missive Windspear",
+                "Kitain Cross Spear"
+            ],
+            "Main_Stats": [
+                "Sands: EM/ATK%",
+                "Goblet: Electro DMG%",
+                "Circlet: CRIT DMG/CRIT Rate"
+            ],
+            "Sub_Stats": "ER > EM ≥ CRIT Rate/DMG > ATK%"
+        }
+    ],
+    "Team_Compositions": "NA",
+    "Character_Image_URL": "https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/67dfbfed4589dbb17a4f18e1a148482a.png"
+}
