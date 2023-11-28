@@ -1,0 +1,39 @@
+{
+	"Character_Name": "kirara",
+	"Character_Title": "Cat Upon the Eaves",
+	"Embed_Color": "#a6c938",
+	"Role_Build": [
+		{
+			"Build_Name": "Support_Build",
+			"Best_Artifacts_4x": [
+				"Deepwood Memories",
+				"Tenacity of the Millelith",
+				"Instructor",
+				"Noblesse Oblige"
+			],
+			"Best_Artifacts_2x": [
+				"Tenacity of the Millelith",
+                "Vourukasha's glow",
+                "Any artifact that scales on HP%"
+			],
+			"Weapon": [
+				"Favonius Sword",
+				"Key of Khaj-Nisut",
+				"Sacrificial Sword",
+				"Sapwood Blade",
+				"Festering Desire",
+				"Fleuve Cendre Ferryman",
+				"Freedom-Sworn",
+				"Primordial Jade Cutter"
+			],
+			"Main_Stats": [
+				"Sands : HP%",
+				"Goblet: HP%",
+				"Circlet : HP% or crit rate"
+			],
+			"Sub_Stats": "ER > HP% > CRIT Rate"
+		}
+	],
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/8e8c8c18039f5441d4f2f43757781ae0.png"
+}

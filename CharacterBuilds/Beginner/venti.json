@@ -28,7 +28,7 @@
 			"Main_Stats": [
 				"Sands: Elemental Mastery",
 				"Goblet: Elemental Mastery",
-				" Circlet: Elemental Mastery"
+				"Circlet: Elemental Mastery"
 			],
 			"Sub_Stats": "ER (until sufficient) > EM > ATK% = CR > CD/Flat ATK"
 		},
@@ -57,7 +57,8 @@
 			],
 			"Main_Stats": [
 				"Sands: ATK%",
-				"Goblet: Anemo DMG%/ATK%\n Circlet: CRIT Rate/CRIT Damage"
+				"Goblet: Anemo DMG%/ATK%",
+				"Circlet: CRIT Rate/CRIT Damage"
 			],
 			"Sub_Stats": "ER (until sufficient) > CR = CD > ATK% > EM/Flat ATK"
 		}

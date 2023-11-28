@@ -1,0 +1,41 @@
+{
+	"Character_Name": "Xiao",
+	"Character_Title": "Vigilant Yaksha",
+	"Embed_Color": "#75c2aa",
+	"Role_Build": [
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": [
+				"Vermillion Hereafter",
+				"Marechaussee Hunter",
+                "Desert Pavilion Chronicle",
+                "Viridescent Venerer"
+			],
+			"Best_Artifacts_2x": [
+				"Emblem of Severed Fate",
+				"2pc Anemo DMG% / 2pc ATK%"
+			],
+			"Weapon": [
+				"Primordial Jade Winged Spear",
+				"Staff of Homa",
+				"Vortex Vanquisher",
+				"Calamity Queller",
+                "Engulfing Lightning",
+				"Skyward Spine",
+				"Lithic Spear",
+				"Deathmatch",
+				"Favonius Lance",
+				"Blackcliff Pole",
+				"Prospector's Drill"
+			],
+			"Main_Stats": [
+				"Sands: ATK%",
+				"Goblet: Anemo DMG%/ATK%",
+                "Circlet: CRIT Rate/CRIT Damage"
+			],
+			"Sub_Stats": "ER > Crit Rate = Crit DMG > ATK% > Extra ER%"
+		}
+	],
+	"Team_Compositions": "",
+	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Xiao_icon.png"
+}

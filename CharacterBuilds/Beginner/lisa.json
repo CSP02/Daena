@@ -1,0 +1,66 @@
+{
+    "Character_Name": "Lisa",
+    "Character_Title": "Witch of Purple Rose",
+    "Embed_Color": "#b08fc2",
+    "Role_Build": [
+        {
+            "Build_Name": "DPS_Build",
+            "Best_Artifacts_4x": [
+                "Emblem of Severed Fate",
+                "Thundering fury",
+                "Thundersoother"
+            ],
+            "Best_Artifacts_2x": [
+                "Noblesse Oblige",
+                "Thundering Fury",
+                "Emblem of Severed Fate",
+                "+18% ATK set(2) and 80EM (2)"
+            ],
+            "Weapon": [
+                "Kagura's Verity",
+                "Lost Prayers to the Sacred Winds",
+                "A Thousand Floating Dreams",
+                "The Widsith",
+                "Skyward Atlas",
+                "Solar Pearl",
+                "Blackcliff Agate",
+                "Mappa Mare",
+                "Wandering Evenstar"
+            ],
+            "Main_Stats": [
+                "Sands: ER% / ATK% ≥ EM",
+                "Goblet: Electro DMG%",
+                "Circlet: CRIT Rate or CRIT DMG"
+            ],
+            "Sub_Stats": "Crit > ER% > EM = ATK"
+        },
+        {
+            "Build_Name": "Support_Build",
+            "Best_Artifacts_4x": [
+                "Emblem of Severed Fate",
+                "Noblesse Oblige",
+                "Instructor"
+            ],
+            "Best_Artifacts_2x": [
+                "Emblem of Severed Fate",
+                "Noblesse Oblige",
+                "Instructor",
+                "+80 EM set (2) / +80 EM set (2)"
+            ],
+            "Weapon": [
+                "Thrilling Tales of Dragon Slayers",
+                "Hakushin Ring",
+                "Favonius Codex",
+                "Prototype Amber"
+            ],
+            "Main_Stats": [
+                "Sands: EM/ER",
+                "Goblet: EM",
+                "Circlet: EM"
+            ],
+            "Sub_Stats": "ER% > Crit/EM > ATK%"
+        }
+    ],
+    "Team_Compositions": "NA",
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Lisa_icon.png"
+}

@@ -1,0 +1,60 @@
+{
+	"Character_Name": "Sucrose",
+	"Character_Title": "Harmless Sweetie",
+	"Embed_Color": "#75c2aa",
+	"Role_Build": [
+		{
+			"Build_Name": "Support_Build",
+			"Best_Artifacts_4x": [
+				"Viridescent Venerer",
+				"Instructor"
+			],
+			"Best_Artifacts_2x": [
+				"Viridescent Venerer",
+				"Instructor"
+			],
+			"Weapon": [
+				"A Thousand Floating Dreams",
+				"Wandering Evenstar",
+				"Thrilling Tales of Dragon Slayers",
+				"Sacrificial Fragments",
+				"Favonius Codex",
+				"Magic Guide",
+				"Prototype Amber"
+			],
+			"Main_Stats": [
+				"Sands: Elemental Mastery",
+				"Goblet: Elemental Mastery",
+				"Circlet: Elemental Mastery"
+			],
+			"Sub_Stats": "ER% > EM"
+		},
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": [
+				"Viridescent Venerer",
+				"Instructor"
+			],
+			"Best_Artifacts_2x": [
+				"Viridescent Venerer",
+				"Instructor"
+			],
+			"Weapon": [
+				"Sacrificial Fragments",
+				"A Thousand Floating Dreams",
+				"Wandering Evenstar",
+				"Thrilling Tales of Dragon Slayers",
+				"Magic Guide",
+				"Hakushin Ring"
+			],
+			"Main_Stats": [
+				"Sands: Elemental Mastery",
+				"Goblet: Elemental Mastery",
+				"Circlet: Elemental Mastery"
+			],
+			"Sub_Stats": "ER% > EM"
+		}
+	],
+	"Team_Compositions": "",
+	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Sucrose_icon.png"
+}
