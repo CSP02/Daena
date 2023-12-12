@@ -1,0 +1,62 @@
+{
+	"Character_Name": "Shikanoin Heizou",
+	"Character_Title": "Analytical Harmony",
+	"Embed_Color": "#75c2aa",
+	"Role_Build": [
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": [
+				"Viridescent Venerer",
+				"Lavawalker",
+				"Thundersoother"
+			],
+			"Best_Artifacts_2x": [
+				"2pc + 2pc EM/ATK/Anemo DMG%"
+			],
+			"Weapon": [
+				"Skyward Atlas",
+				"Memory of Dust",
+				"Kagura's Verity",
+				"The Widsith",
+				"Lost Prayer to the Sacred Winds",
+				"Sacrificial Fragments",
+				"Mappa Mare",
+				"Solar Pearl",
+				"Eye of Perception"
+			],
+			"Main_Stats": [
+				"Sands: Elemental Mastery",
+				"Goblet: Elemental Mastery",
+				"Circlet: Elemental Mastery"
+			],
+			"Sub_Stats": "ER (until sufficient) > EM > ATK% = CR > CD/Flat ATK"
+		},
+		{
+			"Build_Name": "Support_Build",
+			"Best_Artifacts_4x": [
+				"Viridescent Venerer",
+				"Emblem of Severed Fate"
+			],
+			"Best_Artifacts_2x": [
+				"Viridescent Venerer",
+				"Desert Pavilion Chronicle",
+				"Noblesse Oblige"
+			],
+			"Weapon": [
+				"Sacrificial Fragments",
+				"Magic Guide",
+				"Mappa Mare",
+                "Hakushin Ring",
+                "Prototype Amber"
+			],
+			"Main_Stats": [
+				"Sands: ATK%",
+				"Goblet: Anemo DMG%/ATK%",
+				"Circlet: CRIT Rate/CRIT Damage"
+			],
+			"Sub_Stats": "ER (until sufficient) > CR = CD > ATK% > EM/Flat ATK"
+		}
+	],
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Shikanoin%2520Heizou_icon.png"
+}

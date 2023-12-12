@@ -1,0 +1,27 @@
+{
+	"Character_Name": "Character full name",
+	"Character_Title": "Character title (you can find this in hoyowiki. If not found you can leave it empty)",
+	"Embed_Color": "#ffb300",
+	"Role_Build": [
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": [
+				"best 4x Artifacts for this character if the character is being used as DPS"
+			],
+			"Best_Artifacts_2x": [
+                "best 2x Artifacts for this character if the character is being used as DPS"
+			],
+			"Weapon": [
+				"Best weapons for this character"
+			],
+			"Main_Stats": [
+				"Sands: ",
+				"Goblet: ",
+				"Circlet: "
+			],
+			"Sub_Stats": "You can find info about sub stats in keqing mains website. If you know the sub stats of artifacts you can put them here."
+		}
+	],
+	"Team_Compositions": "Team compositions if there are any",
+	"Character_Image_URL": "This is the icon URL. leave empty or get the img url from the official site."
+}

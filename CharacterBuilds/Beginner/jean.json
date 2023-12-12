@@ -1,0 +1,64 @@
+{
+	"Character_Name": "Jean",
+	"Character_Title": "Dandelion Knight",
+	"Embed_Color": "#75c2aa",
+	"Role_Build": [
+		{
+			"Build_Name": "Support_Build",
+			"Best_Artifacts_4x": [
+				"Viridescent Venerer",
+				"Noblesse Oblige",
+				"Ocean Hued Clam"
+			],
+			"Best_Artifacts_2x": [
+				"Viridescent Venerer",
+				"Noblesse Oblige",
+                "Gladiator Finale",
+                "Emblem of severed fate"
+			],
+			"Weapon": [
+				"Freedom-Sworn",
+				"Iron Sting",
+				"Favonius Sword"
+			],
+			"Main_Stats": [
+				"Sands: Elemental Mastery",
+				"Goblet: Elemental Mastery",
+				"Circlet: Elemental Mastery"
+			],
+			"Sub_Stats": "EM = ER% > Crit RATE% = Crit DMG% > ATK% > Flat ATK"
+		},
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": [
+				"Viridescent Venerer",
+				"Noblesse Oblige",
+				"Ocean Hued Clam"
+			],
+			"Best_Artifacts_2x": [
+				"Viridescent Venerer",
+				"Noblesse Oblige",
+                "Gladiator Finale",
+                "Emblem of severed fate"
+			],
+			"Weapon": [
+				"Primordial Jade Cutter",
+				"Mistsplitter Reforged",
+				"Freedom-Sworn",
+				"Amenoma Kageuchi",
+				"Festering Desire",
+				"Skyward Blade",
+				"Favonius sword",
+                "Sacrificial Sword"
+			],
+			"Main_Stats": [
+				"Sands: ATK% or ER%",
+				"Goblet: Anemo DMG%/ATK%",
+				"Circlet: CRIT Rate/CRIT Damage"
+			],
+			"Sub_Stats": "ER% > Crit RATE% = Crit DMG% > ATK% > EM = Flat ATK"
+		}
+	],
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Jean_icon.png"
+}

@@ -1,0 +1,39 @@
+{
+	"Character_Name": "Eula",
+	"Character_Title": "Dance of the Shimmering Wave",
+	"Embed_Color": "#a0d7e4",
+	"Role_Build": [
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": [
+				"Pale Flame",
+                "Emblem of Severed Fate"
+			],
+			"Best_Artifacts_2x": [
+				"Pale Flame",
+                "Bloodstained Chivalry",
+                "Gladiator Finale",
+                "Shimenawa's Reminisence",
+                "Emblem of Severed Fate"
+			],
+			"Weapon": [
+				"Song of Broken Pines",
+				"Wolf's Gravestone",
+				"The Unforged",
+				"Skyward Pride",
+				"Redhorn Stonethresher",
+				"Serpent's Spine",
+				"Akuoumaru",
+				"Lithic Blade"
+			],
+			"Main_Stats": [
+				"Sands: ATK% > ER%",
+				"Goblet: Physical DMG%",
+				"Circlet: CRIT"
+			],
+			"Sub_Stats": "ER > CRIT DMG/CRIT Rate > ATK%"
+		}
+	],
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Eula_icon.png"
+}

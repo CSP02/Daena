@@ -27,7 +27,7 @@ module.exports = {
 			.setRequired(false)
 			.addChoices(
 				{ name: "Beginner", value: "Beginner" },
-				{ name: "Advanced", value: "Advanced" }
+				{ name: "Advanced (Beta)", value: "Advanced" }
 			)
 		),
 
