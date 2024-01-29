@@ -1,0 +1,58 @@
+{
+    "Character_Name": "Yaoyao",
+    "Character_Title": "Burgeoning Grace",
+    "Embed_Color": "#a6c938",
+    "Role_Build": [
+        {
+            "Build_Name": "DPS_Build",
+            "Best_Artifacts_4x": [
+                "Deepwood Memories",
+                "Gilded Dreams",
+                "Emblem of Severed Fate"
+            ],
+            "Best_Artifacts_2x": ["NA"],
+            "Weapon": [
+                "Deathmatch",
+                "Staff of Homa",
+                "Staff of the Scarlet Sands",
+                "Kitain Cross Spear",
+                "White Tassel"
+            ],
+            "Main_Stats": [
+                "Sands: HP%/ER%",
+                "Goblet: HP%",
+                "Circlet: Healing Bonus > HP%"
+            ],
+            "Sub_Stats": "ER% > CRIT Rate > HP% > Flat HP / EM"
+        },
+        {
+            "Build_Name": "Healer_Build",
+            "Best_Artifacts_4x": [
+                "Deepwood Memories",
+                "Instructor",
+                "Tenacity of the Millelith"
+            ],
+            "Best_Artifacts_2x": [
+                "Tenacity of the Millelith",
+                "Maiden Beloved",
+                "Ocean-hued calm",
+                "Vourukasha's Glow"
+            ],
+            "Weapon": [
+                "Favonius Lance",
+                "Rightful Reward",
+                "Kitain Cross Spear",
+                "Black Tassel",
+                "Moonpiercer"
+            ],
+            "Main_Stats": [
+                "Sands: HP%/ER%",
+                "Goblet: HP%",
+                "Circlet: Healing Bonus > HP%"
+            ],
+            "Sub_Stats": "ER% > CRIT Rate > HP% > Flat HP / EM"
+        }
+    ],
+    "Team_Compositions": "Team compositions if there are any",
+    "Character_Image_URL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/15/35428890/5bc9df1fb67391e4c8080da3d855de53_8974356791001371659.png?x-oss-process=image%2Fformat%2Cwebp"
+}

@@ -1,0 +1,64 @@
+{
+	"Character_Name": "Qiqi",
+	"Character_Title": "Icy Resurrection",
+	"Embed_Color": "#4682B4",
+	"Role_Build": [
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": [
+                "Ocean-Hued Clam",
+                "Pale Flame",
+                "Tenacity of the Millelith",
+                "Instructors"
+            ],
+			"Best_Artifacts_2x": [
+                "Pale Flame",
+                "Bloodstained chivalry"
+            ],
+			"Weapon": [
+                "Aquila favonia",
+                "Primodial jade cutter",
+                "Summit shaper",
+                "Mistsplitter",
+                "Favonius sword",
+                "Lion's roar",
+                "Black sword",
+                "Prtotype rancour",
+                "sacrificial sword",
+                "flute"
+            ],
+			"Main_Stats": [
+                "Sands: ATK%",
+                "Goblet: Physical DMG%",
+                "Circlet: CRIT%"
+            ],
+			"Sub_Stats": "NA"
+		},
+        {
+			"Build_Name": "Healer_Build",
+			"Best_Artifacts_4x": [
+                "Ocean-Hued Clam",
+                "Instructors",
+                "Tenacity of the Millelith",
+                "Maidens beloved"
+            ],
+			"Best_Artifacts_2x": [
+                "Maidens beloved",
+                "Gladiator Finale"
+            ],
+			"Weapon": [
+                "flute",
+                "Prtotype rancour",
+                "sacrificial sword"
+            ],
+			"Main_Stats": [
+                "Sands: ATK%",
+                "Goblet: ATK%",
+                "Circlet: ATK%"
+            ],
+			"Sub_Stats": "NA"
+		}
+	],
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Qiqi_icon.png"
+}

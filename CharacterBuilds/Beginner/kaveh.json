@@ -1,0 +1,38 @@
+{
+	"Character_Name": "Kaveh",
+	"Character_Title": "Empyrean Reflection",
+	"Embed_Color": "#a6c938",
+	"Role_Build": [
+		{
+			"Build_Name": "Support_Build",
+			"Best_Artifacts_4x": [
+				"Deepwood Memories",
+                "Ocean-Hued Clam",
+                "Flower of Paradise Lost",
+				"Gilded Dreams",
+                "Instructor"
+			],
+			"Best_Artifacts_2x": [
+				"20% ER/15% Dendro DMG/80 EM/18% ATK"
+			],
+			"Weapon": [
+				"Skyward Pride",
+				"Favonius Greatsword",
+				"Forest Regalia",
+				"Rainslasher",
+				"Katsuragikiri Nagamasa",
+				"Makhaira Aquamarine",
+                "Mailed Flower",
+                "Bloodtainted Greatsword"
+			],
+			"Main_Stats": [
+				"Sands : ER or EM",
+				"Goblet: EM",
+				"Circlet : CRIT Rate or EM"
+			],
+			"Sub_Stats": "ER > CRIT Rate (if using Favonius Greatsword) > EM >= ATK% >= CRIT Rate >= CRIT DMG"
+		}
+	],
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/875eb266bcaee2ff68b78d863760afae.png"
+}

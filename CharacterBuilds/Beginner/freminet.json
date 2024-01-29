@@ -1,0 +1,40 @@
+{
+	"Character_Name": "Freminet",
+	"Character_Title": "Yearning for Unseen Depths",
+	"Embed_Color": "#4682B4",
+	"Role_Build": [
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": [
+                "Pale Flame",
+                "Blizzard Strayer",
+                "Golden Troupe"
+            ],
+			"Best_Artifacts_2x": [
+                "Pale Flame",
+                "Gladiator Finale",
+                "Emblem of Severed Fate",
+                "Shimenawa's reminscenes",
+                "Bloodstained chivalry"
+            ],
+			"Weapon": [
+                "Skyward Pride",
+                "Serpent Spine",
+                "Song of Broken Pines",
+                "Beacon of the Reed Sea",
+                "Redhorn Stonethresher",
+                "Wolf's Gravestone",
+                "The Unforged",
+                "Prototype Archaic"
+            ],
+			"Main_Stats": [
+                "Sands: ATK% / ER%",
+                "Goblet: Physical DMG% / Cryo DMG%",
+                "Circlet: CRIT%"
+            ],
+			"Sub_Stats": "ER (until requirements) > CRIT > ATK%"
+		}
+	],
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/7ca0ad25c2cbb36cd55a8a19c1b2a39f.png"
+}

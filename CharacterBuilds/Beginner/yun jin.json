@@ -1,0 +1,36 @@
+{
+"Character_Name": "Yun jin",
+"Character_Title": "Stage Lucida",
+"Embed_Color": "#ffb300",
+"Role_Build": [
+    {
+        "Build_Name": "DPS_Build",
+        "Best_Artifacts_4x": [
+            "Husk of Opulent Dreams",
+            "Noblesse Oblige",
+            "Archaic Petra"
+        ],
+        "Best_Artifacts_2x": [
+            "Emblem of severed fate",
+            "Husk of Opulent Dreams"
+        ],
+        "Weapon": [
+            "Favonius Lance",
+            "Engulfing Lightning",
+            "The Catch",
+            "Prototype Starglitter",
+            "Kitain Cross Spear",
+            "Skyward Spine",
+            "Deathmatch"
+        ],
+        "Main_Stats": [
+            "Sands: DEF% / ER%",
+            "Goblet: DEF%",
+            "Circlet: DEF%"
+        ],
+        "Sub_Stats": "ER% = DEF% = CRIT Rate% > Flat DEF"
+    }
+],
+"Team_Compositions": "Team compositions if there are any",
+"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Yun%2520Jin_icon.png"
+}

@@ -1,0 +1,40 @@
+{
+    "Character_Name": "Yanfei",
+    "Character_Title": "Wise Innocence",
+    "Embed_Color": "#ef7a35",
+    "Role_Build": [
+        {
+            "Build_Name": "DPS_Build",
+            "Best_Artifacts_4x": [
+                "Crimson Witch of Flames",
+                "Wanderer's Troupe",
+                "Retracing Bolide",
+                "Shimenawa's Reminiscence"
+            ],
+            "Best_Artifacts_2x": [
+                "Crimson Witch of Flames",
+                "Wanderer's Troupe",
+                "Shimenawa's Reminiscence",
+                "Gladiator's Finale"
+            ],
+            "Weapon": [
+                "Lost Prayer to the Sacred Winds",
+                "The Widsith",
+                "Kagura's Verity",
+                "Skyward Atlas",
+                "Memory of Dust",
+                "Solar Pearl",
+                "Oathsworn Eye",
+                "Mappa Mare"
+            ],
+            "Main_Stats": [
+                "Sands: ATK%",
+                "Goblet: Pyro dmg bonus",
+                "Circlet: CRIT"
+            ],
+            "Sub_Stats": "ER > CRIT > EM/ATK%"
+        }
+    ],
+    "Team_Compositions": "Team compositions if there are any",
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Yanfei_icon.png"
+}

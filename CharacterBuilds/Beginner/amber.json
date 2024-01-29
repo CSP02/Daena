@@ -1,0 +1,21 @@
+{
+"Character_Name": "Amber",
+"Character_Title": "Gliding Champion",
+"Embed_Color": "#ef7a35",
+"Role_Build": [
+    {
+        "Build_Name": "DPS_Build",
+        "Best_Artifacts_4x": [],
+        "Best_Artifacts_2x": [],
+        "Weapon": [],
+        "Main_Stats": [
+            "Sands: ",
+            "Goblet: ",
+            "Circlet: "
+        ],
+        "Sub_Stats": ""
+    }
+],
+"Team_Compositions": "Team compositions if there are any",
+"Character_Image_URL": ""
+}

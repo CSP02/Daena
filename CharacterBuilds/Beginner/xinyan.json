@@ -1,0 +1,41 @@
+{
+"Character_Name": "Xinyan",
+"Character_Title": "Blazing Riff",
+"Embed_Color": "#ef7a35",
+"Role_Build": [
+    {
+        "Build_Name": "DPS_Build",
+        "Best_Artifacts_4x": [
+            "Pale Flame",
+            "Retracing Bolide",
+            "Bloodstained Chivalry"
+        ],
+        "Best_Artifacts_2x": [
+            "Pale Flame",
+            "Bloodstained Chivalry",
+            "Emblem of severed fate",
+            "Shimenawa's Reminiscence",
+            "Husk of Opulent Dreams"
+        ],
+        "Weapon": [
+            "Redhorn Stonethresher",
+            "Serpent Spine",
+            "Skyward Pride",
+            "Wolf's Gravestone",
+            "Song of Broken Pines",
+            "The Unforged",
+            "Prototype Archaic",
+            "Luxurious Sea-Lord",
+            "Blackcliff Slasher"
+        ],
+        "Main_Stats": [
+            "Sands: ATK%/DEF%/ER%",
+            "Goblet: Physical DMG% / Pyro DMG%",
+            "Circlet: CRIT Rate / CRIT DMG"
+        ],
+        "Sub_Stats": "ER > CRIT > ATK% > DEF% > Flat ATK/Flat Def > EMhttps://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Xinyan_icon.png"
+    }
+],
+"Team_Compositions": "Team compositions if there are any",
+"Character_Image_URL": ""
+}

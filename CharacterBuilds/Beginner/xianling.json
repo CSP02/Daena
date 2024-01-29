@@ -1,0 +1,40 @@
+{
+    "Character_Name": "Xiangling",
+    "Character_Title": "Exquisite Delicacy",
+    "Embed_Color": "#ef7a35",
+    "Role_Build": [
+        {
+            "Build_Name": "DPS_Build",
+            "Best_Artifacts_4x": [
+                "Emblem of Severed Fate",
+                "Gilded Dreams",
+                "Crimson Witch of Flames"
+            ],
+            "Best_Artifacts_2x": [
+                "Emblem of Severed Fate",
+                "Gilded Dreams",
+                "Crimson Witch of Flames"
+            ],
+            "Weapon": [
+                "The Catch",
+                "Staff of Scarlet Sands",
+                "Wavebreaker's Fin",
+                "Staff of Homa",
+                "Engulfing Lightning",
+                "Deathmatch",
+                "Primordial Jade-Winged Spear",
+                "Dragon's Bane",
+                "Kitain Cross Spear",
+                "Favonius Lance"
+            ],
+            "Main_Stats": [
+                "Sands: ER / EM / ATK%",
+                "Goblet: Pyro DMG%",
+                "Circlet: CRIT Rate / DMG"
+            ],
+            "Sub_Stats": "ER > CR/CD > EM/ATK%"
+        }
+    ],
+    "Team_Compositions": "Team compositions if there are any",
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Xiangling_icon.png"
+}

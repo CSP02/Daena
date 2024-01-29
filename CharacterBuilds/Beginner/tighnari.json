@@ -1,0 +1,39 @@
+{
+    "Character_Name": "Tighnari",
+    "Character_Title": "Verdant Strider",
+    "Embed_Color": "#a6c938",
+    "Role_Build": [
+        {
+            "Build_Name": "DPS_Build",
+            "Best_Artifacts_4x": [
+                "Deepwood Memories",
+                "Wanderer's Troupe",
+                "Gilded Dreams"
+            ],
+            "Best_Artifacts_2x": [
+                "Deepwood Memories",
+                "Wanderer's Troupe",
+                "Gladiator's finale"
+            ],
+            "Weapon": [
+                "Hunter's Path",
+                "Aqua Simulacra",
+                "Polar Star",
+                "Thundering Pulse",
+                "Skyward Harp",
+                "Elegy for the End",
+                "Amos' Bow",
+                "Viridescent Hunt",
+                "Stringless"
+            ],
+            "Main_Stats": [
+                "Sands: ATK% or EM",
+                "Goblet: Dendro DMG%",
+                "Circlet: CR or CDMG"
+            ],
+            "Sub_Stats": "ER > CRIT > ATK%/EM"
+        }
+    ],
+    "Team_Compositions": "Team compositions if there are any",
+    "Character_Image_URL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/08/22/35428890/497dd6fac3d3c652a367c67428550747_306268558608889633.png?x-oss-process=image%2Fformat%2Cwebp"
+}

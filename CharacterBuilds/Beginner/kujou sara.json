@@ -1,0 +1,45 @@
+{
+	"Character_Name": "Kujou Sara",
+	"Character_Title": "Crowfeather Kaburaya",
+	"Embed_Color": "#b08fc2",
+	"Role_Build": [
+		{
+			"Build_Name": "DPS_Build",
+			"Best_Artifacts_4x": [
+				"Emblem of Severed Fate",
+                "Noblesse Oblige",
+				"Tenacity of the Millelith"
+			],
+			"Best_Artifacts_2x": [
+				"Noblesse Oblige",
+				"Thundering Fury",
+				"Gladiator Finale",
+                "Shimenawa's remeniscenece",
+                "Echoes of the offering",
+                "vermillion hereafter"
+			],
+			"Weapon": [
+				"Polar Star",
+				"Skyward Harp",
+				"Mouun's Moon",
+				"Hunter's Path",
+				"Aqua Simulacra",
+				"Alley Hunter",
+				"Thundering Pulse",
+				"Amos' Bow",
+				"Elegy for the End",
+				"The Stringless",
+				"Sacrificial Bow",
+				"Prototype Crescent"
+			],
+			"Main_Stats": [
+				"Sands: ATK% or ER%",
+				"Goblet: Electro DMG%",
+				"Circlet: CRIT Rate or CRIT DMG"
+			],
+			"Sub_Stats": "NA"
+		}
+	],
+	"Team_Compositions": "NA",
+	"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Kujou%2520Sara_icon.png"
+}

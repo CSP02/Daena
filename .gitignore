@@ -9,6 +9,7 @@
 node_modules
 SlashCommands/General/addjson.js
 emojis.json
+.vscode/
 
 # Book build output
 _book

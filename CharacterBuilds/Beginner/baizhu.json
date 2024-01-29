@@ -1,0 +1,40 @@
+{
+"Character_Name": "Baizhu",
+"Character_Title": "Beyond Mortality",
+"Embed_Color": "#a6c938",
+"Role_Build": [
+    {
+        "Build_Name": "DPS_Build",
+        "Best_Artifacts_4x": [
+            "Deepwood Memories",
+            "Ocean-Hued Clam",
+            "Instructor",
+            "Noblesse Oblige",
+            "Maiden Beloved"
+        ],
+        "Best_Artifacts_2x": [
+            "Tenacity of the Millelith",
+            "Emblem of Severed Fate",
+            "Maiden Beloved",
+            "any artifact that scales on HP"
+        ],
+        "Weapon": [
+            "Jadefall's Splendor",
+            "Prototype Amber",
+            "Favonius Codex",
+            "Everlasting Moonglow",
+            "Hakushin Ring",
+            "Thrilling Tales of Dragon Slayers",
+            "A Thousand Floating Dreams"
+        ],
+        "Main_Stats": [
+            "Sands: HP% or ER",
+            "Goblet: HP%",
+            "Circlet: HP% or Healing Bonus"
+        ],
+        "Sub_Stats": "ER% (until requirements) > HP% (up to 50k) > EM"
+    }
+],
+"Team_Compositions": "Team compositions if there are any",
+"Character_Image_URL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/02/35428890/05599650d7f42e1c4adde373de6b297d_8001303176243726128.png?x-oss-process=image%2Fformat%2Cwebp"
+}
