@@ -1,0 +1,71 @@
+{
+    "Character_Name": "Dehya",
+    "Character_Title": "Flame-Mane",
+    "Embed_Color": "#ef7a35",
+    "Role_Build": [
+        {
+            "Build_Name": "DPS_Build",
+            "Best_Artifacts_4x": [
+                "Emblem of Severed Fate",
+                "Vourukasha's Glow",
+                "Lavawalker",
+                "Marechaussee Hunter",
+                "Crimson Witch of Flame"
+            ],
+            "Best_Artifacts_2x": [
+                "Crimson witch of flames",
+                "Gladiator's finale",
+                "Noblesse oblige",
+                "2pc combination (ATK%/Pyro DMG%/Burst DMG%)"
+            ],
+            "Weapon": [
+                "Beacon of the Reed",
+                "Redhorn Stonethresher",
+                "Akuoumaru",
+                "Wolf's Gravestone",
+                "Skyward Pride",
+                "The Unforged",
+                "Luxurious Sea-Lord R5",
+                "Katsuragikiri Nagamasa",
+                "Favonius Greatsword",
+                "Prototype Archaic"
+            ],
+            "Main_Stats": [
+                "Sands: ATK% / ER% / HP%",
+                "Goblet: Pyro DMG%",
+                "Circlet: CRIT"
+            ],
+            "Sub_Stats": "ER > CR or CD > ATK% > HP%"
+        },
+        {
+            "Build_Name": "Support_Build",
+            "Best_Artifacts_4x": [
+                "Tenacity of the Millelith",
+                "Instructor",
+                "Deepwood Memories",
+                "Ocean-Hued Clam",
+                "Maiden's Beloved"
+            ],
+            "Best_Artifacts_2x": [
+                "Tenacity of the Millelith",
+                "Instructor",
+                "Deepwood Memories",
+                "Ocean-Hued Clam",
+                "Maiden's Beloved"
+            ],
+            "Weapon": [
+                "Favonius Greatsword",
+                "Makhaira Aquamarine",
+                "The Bell"
+            ],
+            "Main_Stats": [
+                "Sands: HP%",
+                "Goblet: HP%",
+                "Circlet: HP% / HB%"
+            ],
+            "Sub_Stats": "HP% / HB%"
+        }
+    ],
+    "Team_Compositions": "Team compositions if there are any",
+    "Character_Image_URL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/02/24/35428890/65b22311e1e38ffa45a4928d4005ecee_7076295870986871517.png?x-oss-process=image%2Fformat%2Cwebp"
+}

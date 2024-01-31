@@ -1,21 +1,41 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Fischl",
+    "Character_Title": "Prinzessin der Verurteilung!",
     "Embed_Color": "#b08fc2",
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": [],
-            "Best_Artifacts_2x": [],
-            "Weapon": [],
-            "Main_Stats": [
-                "Sands: ",
-                "Goblet: ",
-                "Circlet: "
+            "Best_Artifacts_4x": [
+                "Golden Troupe",
+                "Thundersoother",
+                "Gilded Dreams",
+                "Tenacity of the Millelith",
+                "Pale Flame"
             ],
-            "Sub_Stats": ""
+            "Best_Artifacts_2x": [
+                "Wanderer's troupe",
+                "Gladiator's finale",
+                "Thundering fury",
+                "Pale Flame"
+            ],
+            "Weapon": [
+                "Polar Star",
+                "Elegy of the End",
+                "Alley Hunter",
+                "Prototype Crescent", 
+                "Song of Stillness",
+                "Fading Twilight",
+                "Rust",
+                "Mitternachts Waltz"
+            ],
+            "Main_Stats": [
+                "Sands: ATK% or EM",
+                "Goblet: Electro DMG% or Physical DMG%",
+                "Circlet: CRIT Rate or CRIT DMG"
+            ],
+            "Sub_Stats": "ER > CRIT Rate/CRIT DMG > ATK%"
         }
     ],
     "Team_Compositions": "Team compositions if there are any",
-    "Character_Image_URL": ""
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Fischl_icon.png"
 }

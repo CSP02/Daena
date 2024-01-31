@@ -1,19 +1,72 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Candace",
+    "Character_Title": "Golden Vow",
     "Embed_Color": "#00BFFF",
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": [],
-            "Best_Artifacts_2x": [],
-            "Weapon": [],
-            "Main_Stats": [
-                "Sands: ",
-                "Goblet: ",
-                "Circlet: "
+            "Best_Artifacts_4x": [
+                "Nymph's Dream",
+                "Gladiator's Finale",
+                "Heart of Depth"
             ],
-            "Sub_Stats": ""
+            "Best_Artifacts_2x": [
+                "Tenacity of the millelith",
+                "Emblem of severed fate",
+                "Gladiator's Finale",
+                "Heart of Depth"
+            ],
+            "Weapon": [
+                "The catch",
+                "Staff of Homa",
+                "Staff of the Scarlet Sands",
+                "Primordial Jade Winged-Spear",
+                "Engulfing Lightning",
+                "Deathmatch",
+                "Favonius Lance",
+                "Prototype starglitter"
+            ],
+            "Main_Stats": [
+                "Sands: ATK% | ER%",
+                "Goblet: Hydro DMG%",
+                "Circlet: CRIT Rate | CRIT DMG"
+            ],
+            "Sub_Stats": "ER% > CRIT Rate = CRIT DMG > ATK% > HP% ≥ EM"
+        },
+        {
+            "Build_Name": "Support_Build",
+            "Best_Artifacts_4x": [
+                "Emblem of Severed Fate",
+                "Noblesse Oblige",
+                "Gilded Dreams",
+                "Flower of Paradise Lost",
+                "Deepwood Memories",
+                "Instructor",
+                "The Exile"
+            ],
+            "Best_Artifacts_2x": [
+                "Tenacity of the millelith",
+                "Heart of Depth",
+                "Emblem of severed fate",
+                "Nobless oblige",
+                "2-piece combinations (Hydro DMG%, HP%, ER%, Burst DMG%)"
+            ],
+            "Weapon": [
+                "The catch",
+                "Staff of Homa",
+                "Staff of the Scarlet Sands",
+                "Primordial Jade Winged-Spear",
+                "Engulfing Lightning",
+                "Wavebreaker's Fin",
+                "Favonius Lance",
+                "Prototype starglitter"
+            ],
+            "Main_Stats": [
+                "Sands: HP% | ER%",
+                "Goblet: Hydro DMG% | HP%",
+                "Circlet: CRIT Rate | CRIT DMG | HP%"
+            ],
+            "Sub_Stats": "ER% > CRIT Rate ≥ CRIT DMG > HP% > ER = EM"
         }
     ],
     "Team_Compositions": "Team compositions if there are any",

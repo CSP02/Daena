@@ -1,21 +1,63 @@
 {
 "Character_Name": "Barbara",
-"Character_Title": "",
+"Character_Title": "Shining Idol",
 "Embed_Color": "#00BFFF",
 "Role_Build": [
     {
         "Build_Name": "DPS_Build",
-        "Best_Artifacts_4x": [],
-        "Best_Artifacts_2x": [],
-        "Weapon": [],
+        "Best_Artifacts_4x": [
+            "Wanderer's troupe",
+            "Heart of depth",
+            "Shimenawa's Reminiscence"
+        ],
+        "Best_Artifacts_2x": [
+            "Heart of Depth",
+            "Shimenawa's Reminiscence"
+        ],
+        "Weapon": [
+            "Skyward Atlas",
+            "Lost Prayer to the Sacred Winds",
+            "The Widsith",
+            "Mappa Mare",
+            "Dodoco Tales",
+            "Eye of Perception",
+            "Everlasting Moonglow",
+            "Prototype Amber",
+            "Thrilling Tales of Dragon Slayers",
+            "Hakushin Ring"
+        ],
         "Main_Stats": [
-            "Sands: ",
-            "Goblet: ",
-            "Circlet: "
+            "Sands: HP",
+            "Goblet: HP",
+            "Circlet: Healing bonus"
         ],
         "Sub_Stats": ""
-    }
+    },
+    {
+            "Build_Name": "Support_Build",
+            "Best_Artifacts_4x": [
+                "Maiden Beloved",
+                "Instructor"
+            ],
+            "Best_Artifacts_2x": [
+                "Maiden Beloved",
+                "Ocean-Hued Clam",
+                "Tenacity of the millelith"
+            ],
+            "Weapon": [
+                "Everlasting Moonglow",
+                "Prototype Amber",
+                "Thrilling Tales of Dragon Slayers"
+            ],
+            "Main_Stats": [
+                "Sands: HP",
+                "Goblet: HP",
+                "Circlet: Healing bonus"
+            ],
+            "Sub_Stats": ""
+        }
+    
 ],
 "Team_Compositions": "Team compositions if there are any",
-"Character_Image_URL": ""
+"Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Barbara_icon.png"
 }

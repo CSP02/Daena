@@ -1,21 +1,74 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Dori",
+    "Character_Title": "Treasure of Dream Garden",
     "Embed_Color": "#b08fc2",
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": [],
-            "Best_Artifacts_2x": [],
-            "Weapon": [],
-            "Main_Stats": [
-                "Sands: ",
-                "Goblet: ",
-                "Circlet: "
+            "Best_Artifacts_4x": [
+                "Gilded Dreams",
+                "Thundering Fury",
+                "Thundersoother",
+                "Flower of Paradise Lost",
+                "Noblesse Oblige",
+                "Deepwood Memories",
+                "Ocean-Hued Clam"
             ],
-            "Sub_Stats": ""
+            "Best_Artifacts_2x": [
+                "Wanderer's troupe",
+                "Emblem of severed fate",
+                "Thundering fury",
+                "Gladiator's finale"
+            ],
+            "Weapon": [
+                "Favonius Greatsword",
+                "Sacrificial Greatsword",
+                "Serpent Spine",
+                "Talking Stick",
+                "Rainslasher",
+                "Bloodtainted Greatsword",
+                "Makhaira Aquamarine",
+                "Blackcliff Slasher"
+            ],
+            "Main_Stats": [
+                "Sands: EM or ER",
+                "Goblet: Electro DMG Bonus or EM",
+                "Circlet: CRIT Rate or CRIT DMG/EM"
+            ],
+            "Sub_Stats": "ER > CRIT > EM > ATK% = HP%"
+        },
+        {
+            "Build_Name": "Healer_Build",
+            "Best_Artifacts_4x": [
+                "Noblesse Oblige",
+                "Deepwood Memories",
+                "Ocean-Hued Clam",
+                "The exile",
+                "Instructor"
+            ],
+            "Best_Artifacts_2x": [
+                "Noblesse Oblige",
+                "Deepwood Memories",
+                "Ocean-Hued Clam",
+                "The exile",
+                "Instructor"
+            ],
+            "Weapon": [
+                "Favonius Greatsword",
+                "Sacrificial Greatsword",
+                "Katsuragikiri Nagamasa",
+                "Forest Regalia",
+                "Wolf's Gravestone",
+                "The Bell"
+            ],
+            "Main_Stats": [
+                "Sands: HP%",
+                "Goblet: HP%",
+                "Circlet: Healing Bonus"
+            ],
+            "Sub_Stats": "HP% > Flat HP"
         }
     ],
     "Team_Compositions": "Team compositions if there are any",
-    "Character_Image_URL": ""
+    "Character_Image_URL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/09/08/35428890/6539bea71efd0f839db897cfc4094362_3469125131800075941.png?x-oss-process=image%2Fformat%2Cwebp"
 }

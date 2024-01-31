@@ -1,21 +1,46 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Charlotte",
+    "Character_Title": "Lens of Verity",
     "Embed_Color": "#a0d7e4",
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": [],
-            "Best_Artifacts_2x": [],
-            "Weapon": [],
-            "Main_Stats": [
-                "Sands: ",
-                "Goblet: ",
-                "Circlet: "
+            "Best_Artifacts_4x": [
+                "Noblesse Oblige",
+                "Tenacity of the Millelith",
+                "Ocean-Hued Clam",
+                "Blizzard Strayer",
+                "Golden Troupe",
+                "Maiden Beloved"
             ],
-            "Sub_Stats": ""
+            "Best_Artifacts_2x": [
+                "Gladiator's finale",
+                "Emblem of severed fate",
+                "Maiden Beloved"
+            ],
+            "Weapon": [
+                "Prototype Amber",
+                "Favonius Codex",
+                "Thrilling Tales of Dragon Slayers",
+                "ATK% or ER% Catalysts",
+                "Kagura's Verity",
+                "Lost Prayer to the Sacred Winds",
+                "Cashflow Supervision",
+                "The Widsith",
+                "Blackcliff Agate",
+                "Solar Pearl",
+                "Memory of Dust",
+                "Skyward Atlas",
+                "Flowing Purity"
+            ],
+            "Main_Stats": [
+                "Sands: Energy Recharge or ATK%",
+                "Goblet: ATK% or Cryo DMG Bonus",
+                "Circlet: Healing Bonus or CRIT Rate"
+            ],
+            "Sub_Stats": "ER ≥ ATK% > CRIT Rate > CRIT DMG"
         }
     ],
     "Team_Compositions": "Team compositions if there are any",
-    "Character_Image_URL": ""
+    "Character_Image_URL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/06/35428890/7bbbff3f35661a93b5091b1f17fae6c0_6927814687713967999.png?x-oss-process=image%2Fformat%2Cwebp"
 }

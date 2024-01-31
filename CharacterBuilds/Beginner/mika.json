@@ -1,21 +1,31 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Mika",
+    "Character_Title": "Coordinates of Clear Frost",
     "Embed_Color": "#a0d7e4",
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": [],
-            "Best_Artifacts_2x": [],
-            "Weapon": [],
-            "Main_Stats": [
-                "Sands: ",
-                "Goblet: ",
-                "Circlet: "
+            "Best_Artifacts_4x": [
+                "Noblesse Oblige",
+                "Ocean-Hued Clam",
+                "The Exile"
             ],
-            "Sub_Stats": ""
+            "Best_Artifacts_2x": [
+                "Any 2pc combination of HP%, Healing bonus, and ER"
+            ],
+            "Weapon": [
+                "Favonius Lance",
+                "Prototype Starglitter",
+                "Other ER Polearms"
+            ],
+            "Main_Stats": [
+                "Sands: ER / HP%",
+                "Goblet: HP%",
+                "Circlet: Healing bonus or HP% or CRIT Rate"
+            ],
+            "Sub_Stats": "ER > CRIT Rate > HP%"
         }
     ],
     "Team_Compositions": "Team compositions if there are any",
-    "Character_Image_URL": ""
+    "Character_Image_URL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/03/21/35428890/da13e3b1a2c6c0e5892b201cec735f9b_6392765476968311284.png?x-oss-process=image%2Fformat%2Cwebp"
 }

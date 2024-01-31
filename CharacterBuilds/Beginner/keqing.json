@@ -5,19 +5,38 @@
 	"Role_Build": [
 		{
 			"Build_Name": "DPS_Build",
-			"Best_Artifacts_4x": "Not yet coded",
-			"Best_Artifacts_2x": "Not yet coded",
-			"Weapon": "Not yet coded",
-			"Main_Stats": "Not yet coded",
-			"Sub_Stats": "Not yet coded"
-		},
-		{
-			"Build_Name": "Support_Build",
-			"Best_Artifacts_4x": "Not yet coded",
-			"Best_Artifacts_2x": "Not yet coded",
-			"Weapon": "Not yet coded",
-			"Main_Stats": "Not yet coded",
-			"Sub_Stats": "Not yet coded"
+			"Best_Artifacts_4x": [
+				"Thundering fury",
+				"Thundersoother",
+				"Gilded dreams",
+				"Shimenawa's Reminiscence"
+			],
+			"Best_Artifacts_2x": [
+				"Wanderer's troupe",
+				"Gladiator's finale",
+				"Shimenawa's Reminiscence",
+				"Thundering Fury"
+			],
+			"Weapon": [
+				"Mistsplitter Reforged",
+				"Primordial Jade Cutter",
+				"Haran Geppaku Futsu",
+				"Light of Foliar Incision",
+				"Freedom Sworn",
+				"Summit Shaper",
+				"Toakube Shigure",
+				"Harbinger of Dawn",
+				"Lion's Roar",
+				"Kagotsurube Isshin",
+				"Iron Sting",
+				"The Flute"
+			],
+			"Main_Stats": [
+				"Sands: ATK%",
+				"Goblet: Electro DMG% or ATK%",
+				"Circlet: ATK%"
+			],
+			"Sub_Stats": "CR = CD > ATK% ≥ ER > Flat ATK"
 		}
 	],
 	"Team_Compositions": "",

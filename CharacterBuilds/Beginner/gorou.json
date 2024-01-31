@@ -1,21 +1,36 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Gorou",
+    "Character_Title": "Canine Warrior",
     "Embed_Color": "#ffb300",
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": [],
-            "Best_Artifacts_2x": [],
-            "Weapon": [],
-            "Main_Stats": [
-                "Sands: ",
-                "Goblet: ",
-                "Circlet: "
+            "Best_Artifacts_4x": [
+                "Noblesse Oblige",
+                "The Exile",
+                "Husk of Opulent Dreams",
+                "Emblem of Severed Fate"
             ],
-            "Sub_Stats": ""
+            "Best_Artifacts_2x": [
+                "Noblesse Oblige",
+                "The Exile",
+                "Husk of Opulent Dreams",
+                "Emblem of Severed Fate"
+            ],
+            "Weapon": [
+                "Favonius Warbow",
+                "Elegy for the End",
+                "Sacrificial Bow",
+                "End of the Line"
+            ],
+            "Main_Stats": [
+                "Sands: ER",
+                "Goblet: GEO dmg bonus or def",
+                "Circlet: CRIT"
+            ],
+            "Sub_Stats": "ER > CRIT Rate > CRIT DMG > DEF"
         }
     ],
     "Team_Compositions": "Team compositions if there are any",
-    "Character_Image_URL": ""
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Gorou_icon.png"
 }

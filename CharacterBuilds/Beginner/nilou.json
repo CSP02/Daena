@@ -1,21 +1,37 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Nilou",
+    "Character_Title": "Dance of Lotuslight",
     "Embed_Color": "#00BFFF",
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": [],
-            "Best_Artifacts_2x": [],
-            "Weapon": [],
-            "Main_Stats": [
-                "Sands: ",
-                "Goblet: ",
-                "Circlet: "
+            "Best_Artifacts_4x": [
+                "Vourukasha's Glow"
             ],
-            "Sub_Stats": ""
+            "Best_Artifacts_2x": [
+                "Vourukasha's Glow",
+                "Tenacity of the Millelith",
+                "2pc HP% + 2pc EM or 2pc Noblesse Oblige"
+            ],
+            "Weapon": [
+                "Key of Khaj-Nisut",
+                "Xiphos' Moonlight",
+                "Freedom-Sworn",
+                "Primordial Jade Cutter",
+                "Favonius Sword",
+                "Sacrificial Sword",
+                "Iron Sting",
+                "Sapwood Blade",
+                "Festering Desire"
+            ],
+            "Main_Stats": [
+                "Sands: HP%",
+                "Goblet: HP%",
+                "Circlet: HP%"
+            ],
+            "Sub_Stats": "ER > HP% > EM > CRIT = Flat HP"
         }
     ],
     "Team_Compositions": "Team compositions if there are any",
-    "Character_Image_URL": ""
+    "Character_Image_URL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/10/10/35428890/586d726f9ebda3506c78beaaa41f13b6_5916447718992361520.png?x-oss-process=image%2Fformat%2Cwebp"
 }

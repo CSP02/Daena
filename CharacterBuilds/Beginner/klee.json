@@ -1,21 +1,38 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Klee",
+    "Character_Title": "Fleeing Sunlight",
     "Embed_Color": "#ef7a35",
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": [],
-            "Best_Artifacts_2x": [],
-            "Weapon": [],
-            "Main_Stats": [
-                "Sands: ",
-                "Goblet: ",
-                "Circlet: "
+            "Best_Artifacts_4x": [
+                "lavawalker",
+                "Crimson witch of flames"
             ],
-            "Sub_Stats": ""
+            "Best_Artifacts_2x": [
+                "Crimson witch of flames",
+                "Shimenawa's Reminiscence",
+                "Gladiator's finale",
+                "Wanderer's troupe",
+                "Nobless Oblige"
+            ],
+            "Weapon": [
+                "The Widsith",
+                "Kagura's Verity",
+                "Dodoco Tales",
+                "Solar Pearl",
+                "Sacrificial Fragments",
+                "Lost Prayer to the Sacred Winds",
+                "Skyward Atlas"
+            ],
+            "Main_Stats": [
+                "Sands: ATK%",
+                "Goblet: Pyro DMG%",
+                "Circlet: Crit Rate/DMG"
+            ],
+            "Sub_Stats": "ER% > CRIT Rate/DMG >> ATK% >>> ATK > Rest"
         }
     ],
     "Team_Compositions": "Team compositions if there are any",
-    "Character_Image_URL": ""
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Klee_icon.png"
 }

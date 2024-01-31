@@ -1,21 +1,60 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Noelle",
+    "Character_Title": "Chivalric Blossom",
     "Embed_Color": "#ffb300",
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": [],
-            "Best_Artifacts_2x": [],
-            "Weapon": [],
-            "Main_Stats": [
-                "Sands: ",
-                "Goblet: ",
-                "Circlet: "
+            "Best_Artifacts_4x": [
+                "Husk of Opulent Dreams",
+                "Gladiator's Finale",
+                "Retracing Bolide",
+                "Echoes of an Offering"
             ],
-            "Sub_Stats": ""
+            "Best_Artifacts_2x": [
+                "Archaic Petra",
+                "Husk of Opulent Dreams"
+            ],
+            "Weapon": [
+                "Redhorn Stonethresher",
+                "Serpent Spine",
+                "Whiteblind",
+                "Skyward Pride",
+                "Wolf's Gravestone",
+                "The Unforged",
+                "Favonius Greatsword"
+            ],
+            "Main_Stats": [
+                "Sands: ATK%/DEF%",
+                "Goblet: Geo DMG% > DEF%",
+                "Circlet: CRIT Rate/DMG%"
+            ],
+            "Sub_Stats": "ER > CRIT > DEF% > ATK%"
+        },
+        {
+            "Build_Name": "Support_Build",
+            "Best_Artifacts_4x": [
+                "Archaic Petra",
+                "Ocean-Hued Clam",
+                "Maiden's Beloved"
+            ],
+            "Best_Artifacts_2x": [
+                "Archaic Petra",
+                "Ocean-Hued Clam",
+                "Maiden's Beloved"
+            ],
+            "Weapon": [
+                "Whiteblind",
+                "Sacrificial Greatsword"
+            ],
+            "Main_Stats": [
+                "Sands: DEF%",
+                "Goblet: DEF%",
+                "Circlet: DEF%"
+            ],
+            "Sub_Stats": "DEF%"
         }
     ],
     "Team_Compositions": "Team compositions if there are any",
-    "Character_Image_URL": ""
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Noelle_icon.png"
 }

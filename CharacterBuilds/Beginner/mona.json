@@ -1,21 +1,67 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Mona",
+    "Character_Title": "Astral Reflection",
     "Embed_Color": "#00BFFF",
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": [],
-            "Best_Artifacts_2x": [],
-            "Weapon": [],
+            "Best_Artifacts_4x": [
+                "Heart of Depth",
+                "Emblem of Severed Fate",
+                "Wanderer's Troupe"
+            ],
+            "Best_Artifacts_2x": [
+                "Heart of Depth",
+                "Gladiator's Finale",
+                "Shimenawa's Reminiscence",
+                "Wanderer's troupe",
+                "Nobless Oblige"
+            ],
+            "Weapon": [
+                "Lost Prayer to the Sacred Winds",
+                "Skyward Atlas",
+                "The Widsith",
+                "Mappa Mare",
+                "Solar Pearl",
+                "Thrilling Tales of Dragon Slayers",
+                "Dodoco Tales"
+            ],
             "Main_Stats": [
-                "Sands: ",
-                "Goblet: ",
-                "Circlet: "
+                "Sands: ATK%",
+                "Goblet: Hydro DMG",
+                "Circlet: Crit Rate or Crit DMG"
             ],
             "Sub_Stats": ""
+        },
+        {
+            "Build_Name": "Support_Build",
+            "Best_Artifacts_4x": [
+                "Noblesse Oblige",
+                "Tenacity of the Millelith",
+                "Emblem of Severed Fate",
+                "Instructor"
+            ],
+            "Best_Artifacts_2x": [
+                "Noblesse Oblige",
+                "Tenacity of the Millelith",
+                "Emblem of Severed Fate",
+                "Instructor"
+            ],
+            "Weapon": [
+                "Memory of Dust",
+                "Favonius Codex",
+                "Prototype Amber",
+                "Hakushin Ring",
+                "Wine and Song"
+            ],
+            "Main_Stats": [
+                "Sands: ER%",
+                "Goblet: Hydro DMG",
+                "Circlet: Crit Rate Circlet"
+            ],
+            "Sub_Stats": "ER"
         }
     ],
     "Team_Compositions": "Team compositions if there are any",
-    "Character_Image_URL": ""
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Mona_icon.png"
 }

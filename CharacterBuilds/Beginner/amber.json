@@ -1,21 +1,58 @@
 {
-"Character_Name": "Amber",
-"Character_Title": "Gliding Champion",
-"Embed_Color": "#ef7a35",
-"Role_Build": [
-    {
-        "Build_Name": "DPS_Build",
-        "Best_Artifacts_4x": [],
-        "Best_Artifacts_2x": [],
-        "Weapon": [],
-        "Main_Stats": [
-            "Sands: ",
-            "Goblet: ",
-            "Circlet: "
-        ],
-        "Sub_Stats": ""
-    }
-],
-"Team_Compositions": "Team compositions if there are any",
-"Character_Image_URL": ""
+    "Character_Name": "Amber",
+    "Character_Title": "Gliding Champion",
+    "Embed_Color": "#ef7a35",
+    "Role_Build": [
+        {
+            "Build_Name": "DPS_Build",
+            "Best_Artifacts_4x": [
+                "Shimenawa's Reminiscence",
+                "Wanderer's Troupe"
+            ],
+            "Best_Artifacts_2x": [
+                "Shimenawa's Reminiscence",
+                "Wanderer's Troupe"
+            ],
+            "Weapon": [
+                "Amos' Bow",
+                "Thundering Pulse",
+                "Sharpshooter's Oath",
+                "Prototype Crescent",
+                "Hamayumi",
+                "Blackcliff Warbow",
+                "Windblume Ode",
+                "Skyward Harp",
+                "Elegy for the End"
+            ],
+            "Main_Stats": [
+                "Sands: ATK% or EM",
+                "Goblet: Pyro DMG%",
+                "Circlet: Crit Damage"
+            ],
+            "Sub_Stats": "CRIT DMG > EM > ATK%"
+        },
+        {
+            "Build_Name": "Support_Build",
+            "Best_Artifacts_4x": [
+                "Instructor",
+                "Noblesse oblige"
+            ],
+            "Best_Artifacts_2x": [
+                "Instructor",
+                "Noblesse oblige"
+            ],
+            "Weapon": [
+                "Elegy for the End",
+                "Favonius warbow"
+            ],
+            "Main_Stats": [
+                "Sands: Any",
+                "Goblet: Any",
+                "Circlet: Any"
+            ],
+            "Sub_Stats": "Any"
+        }
+    ],
+    "Team_Compositions": "Team compositions if there are any",
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Amber_icon.png"
 }

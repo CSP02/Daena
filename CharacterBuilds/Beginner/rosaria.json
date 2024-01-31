@@ -1,21 +1,39 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Rosaria",
+    "Character_Title": "Thorny Benevolence",
     "Embed_Color": "#a0d7e4",
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": [],
-            "Best_Artifacts_2x": [],
-            "Weapon": [],
-            "Main_Stats": [
-                "Sands: ",
-                "Goblet: ",
-                "Circlet: "
+            "Best_Artifacts_4x": [
+                "Blizzard Strayer",
+                "Noblesse Oblige"
             ],
-            "Sub_Stats": ""
+            "Best_Artifacts_2x": [
+                "Blizzard Strayer",
+                "Noblesse Oblige",
+                "Gladiator's finale",
+                "Shimenawa's Reminiscence"
+            ],
+            "Weapon": [
+                "Wavebreaker's Fin",
+                "Staff of Homa",
+                "Vortex Vanquisher",
+                "Primordial Jade-Winged Spear",
+                "Skyward Spine",
+                "Lithic Spear",
+                "Engulfing Lightning",
+                "Blackcliff Pole",
+                "The catch"
+            ],
+            "Main_Stats": [
+                "Sands: ATK%",
+                "Goblet: Cryo DMG Bonus",
+                "Circlet: CRIT DMG"
+            ],
+            "Sub_Stats": "CRIT DMG > CRIT Rate > ATK%, ER"
         }
     ],
     "Team_Compositions": "Team compositions if there are any",
-    "Character_Image_URL": ""
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Rosaria_icon.png"
 }

@@ -1,21 +1,99 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Thoma",
+    "Character_Title": "Protector From Afar",
     "Embed_Color": "#ef7a35",
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": [],
-            "Best_Artifacts_2x": [],
-            "Weapon": [],
-            "Main_Stats": [
-                "Sands: ",
-                "Goblet: ",
-                "Circlet: "
+            "Best_Artifacts_4x": [
+                "Crimson witch of flames",
+                "Emblem of severed fate",
+                "Gladiator's finale",
+                "Retracing Bolide"
             ],
-            "Sub_Stats": ""
+            "Best_Artifacts_2x": [
+                "Gladiator's finale",
+                "Echoes of Offering",
+                "Crimson witch of flames"
+            ],
+            "Weapon": [
+                "Staff of ||~~T~~||Homa",
+                "Staff of the Scarlet Sands",
+                "Primordial Jade Winged-Spear",
+                "Calamity Queller",
+                "Vortex Vanquisher",
+                "Engulfing Lightning",
+                "Deathmatch",
+                "The Catch"
+            ],
+            "Main_Stats": [
+                "Sands: ER% or ATK%",
+                "Goblet: Pyro DMG",
+                "Circlet: CRIT Rate/CRIT Damage"
+            ],
+            "Sub_Stats": "ER% > CRIT > ATK% > EM > Flat ATK"
+        },
+        {
+            "Build_Name": "Support_Build",
+            "Best_Artifacts_4x": [
+                "Crimson witch of flames",
+                "Emblem of severed fate"
+            ],
+            "Best_Artifacts_2x": [
+                "Crimson witch of flames",
+                "Emblem of severed fate",
+                "Nobless oblige",
+                "Gladiator's finale",
+                "Wanderer's troupe"
+            ],
+            "Weapon": [
+                "Staff of ||~~T~~||Homa",
+                "Calamity Queller",
+                "The Catch",
+                "Engulfing Lightning",
+                "Staff of the Scarlet Sands",
+                "Wavebreaker's Fin",
+                "Vortex Vanquisher",
+                "Primordial Jade Winged-Spear",
+                "Deathmatch"
+            ],
+            "Main_Stats": [
+                "Sands: ER% or ATK% or HP%",
+                "Goblet: Pyro DMG or HP%",
+                "Circlet: CRIT Rate/CRIT Damage"
+            ],
+            "Sub_Stats": "ER% > CRIT > ATK% > EM"
+        },
+        {
+            "Build_Name": "Support_Build",
+            "Best_Artifacts_4x": [
+                "Noblesse Oblige",
+                "Emblem of severed fate",
+                "Instructor"
+            ],
+            "Best_Artifacts_2x": [
+                "Emblem of severed fate",
+                "Tenacity of the millelith",
+                "Vouruksha's glow"
+            ],
+            "Weapon": [
+                "Favonius Lance",
+                "Engulfing Lightning",
+                "The Catch",
+                "Kitain Cross Spear",
+                "Prototype Starglitter",
+                "Skyward Spine",
+                "Black Tassel",
+                "Staff of ||~~T~~||Homa"
+            ],
+            "Main_Stats": [
+                "Sands: ER% or HP%",
+                "Goblet: HP%",
+                "Circlet: HP% or CRIT Rate"
+            ],
+            "Sub_Stats": "ER% >> HP% > Flat HP"
         }
     ],
     "Team_Compositions": "Team compositions if there are any",
-    "Character_Image_URL": ""
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Thoma_icon.png"
 }

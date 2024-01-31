@@ -37,6 +37,7 @@ module.exports = {
 		//get the build level "Beginner" or "Advanced"
 		let buildLevel = interaction.options.getString("level");
 		//setting default value to "Beginner"
+		if (buildLevel === "Advanced") return interaction.reply("Coming soon:tm:")
 		if (buildLevel == null) buildLevel = "Beginner";
 
 		const availableChars = fs.readdirSync(`./CharacterBuilds/${buildLevel}/`)

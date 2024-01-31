@@ -1,6 +1,6 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Chongyun",
+    "Character_Title": "Frozen Ardor",
     "Embed_Color": "#a0d7e4",
     "Role_Build": [
         {
@@ -17,5 +17,5 @@
         }
     ],
     "Team_Compositions": "Team compositions if there are any",
-    "Character_Image_URL": ""
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Chongyun_icon.png"
 }

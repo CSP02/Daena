@@ -1,21 +1,38 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Kaeya",
+    "Character_Title": "Frostwind Swordsman",
     "Embed_Color": "#a0d7e4",
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": [],
-            "Best_Artifacts_2x": [],
-            "Weapon": [],
-            "Main_Stats": [
-                "Sands: ",
-                "Goblet: ",
-                "Circlet: "
+            "Best_Artifacts_4x": [
+                "Blizzard Strayer",
+                "Emblem of Severed Fate",
+                "Noblesse Oblige"
             ],
-            "Sub_Stats": ""
+            "Best_Artifacts_2x": [
+                "Noblesse Oblige",
+                "Blizzard Strayer",
+                "2pc ATK%"
+            ],
+            "Weapon": [
+                "Mistsplitter Reforged",
+                "Light of Foliar Incision",
+                "Haran Geppaku Futsu",
+                "Kagotsurube Isshin",
+                "The Alley Flash",
+                "Aquila Favonia",
+                "Primordial Jade Cutter",
+                "Summit Shaper"
+            ],
+            "Main_Stats": [
+                "Sands: ATK%",
+                "Goblet: Cryo DMG%",
+                "Circlet: CRIT DMG/Rate"
+            ],
+            "Sub_Stats": "ER% > ATK% > CRIT DMG > CRIT Rate"
         }
     ],
     "Team_Compositions": "Team compositions if there are any",
-    "Character_Image_URL": ""
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Kaeya_icon.png"
 }

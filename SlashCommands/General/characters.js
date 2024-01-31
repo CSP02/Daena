@@ -15,10 +15,12 @@ module.exports = {
             const character = require(`../../CharacterBuilds/Beginner/${char}`)
             if (character.Character_Name !== "") {
                 des += `${i}. ${character.Character_Name} (`;
+                let buildNames = ""
                 character.Role_Build.forEach(build => {
-                    des += `${build.Build_Name},`
+                    buildNames += `${build.Build_Name.trim()}, `
                 })
-                des = `${des.slice(0, des.length - 1).replaceAll(",", ", ")})\n`
+                des += buildNames.trim()
+                des = `${des.slice(0, des.length - 1)})\n`
             };
             i++
         })

@@ -1,21 +1,84 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Collei",
+    "Character_Title": "Sprout of Rebirth",
     "Embed_Color": "#a6c938",
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": [],
-            "Best_Artifacts_2x": [],
-            "Weapon": [],
-            "Main_Stats": [
-                "Sands: ",
-                "Goblet: ",
-                "Circlet: "
+            "Best_Artifacts_4x": [
+                "Deepwood Memories",
+                "Gilded Dreams",
+                "Tenacity of the Millelith",
+                "Noblesse Oblige",
+                "Instructor",
+                "The Exile"
             ],
-            "Sub_Stats": ""
+            "Best_Artifacts_2x": [
+                "Deepwood Memories",
+                "Gilded Dreams",
+                "Tenacity of the Millelith",
+                "Noblesse Oblige",
+                "Instructor",
+                "The Exile"
+            ],
+            "Weapon": [
+                "Polar Star",
+                "Elegy for the End",
+                "Aqua Simulacra",
+                "Sacrificial Bow",
+                "The Stringless",
+                "Thundering Pulse",
+                "Hunter's Path",
+                "Favonius Warbow",
+                "King's Squire",
+                "Raven Bow"
+            ],
+            "Main_Stats": [
+                "Sands: ER%/EM/ATK%",
+                "Goblet: Dendro DMG%",
+                "Circlet: CRIT DMG/CRIT Rate"
+            ],
+            "Sub_Stats": "ER% > CRIT Rate/CRIT DMG > EM/ATK%"
+        },
+        {
+            "Build_Name": "Support_Build",
+            "Best_Artifacts_4x": [
+                "Deepwood Memories",
+                "Gilded Dreams",
+                "Tenacity of the Millelith",
+                "Noblesse Oblige",
+                "Instructor",
+                "The Exile"
+            ],
+            "Best_Artifacts_2x": [
+                "Deepwood Memories",
+                "Gilded Dreams",
+                "Tenacity of the Millelith",
+                "Noblesse Oblige",
+                "Instructor",
+                "The Exile"
+            ],
+            "Weapon": [
+                "Elegy for the End",
+                "Sacrificial Bow",
+                "The Stringless",
+                "Windblume Ode",
+                "Polar Star",
+                "Favonius Warbow",
+                "End of the Line",
+                "Hunter's Path",
+                "Aqua Simulacra",
+                "Mouun's Moon",
+                "Raven Bow"
+            ],
+            "Main_Stats": [
+                "Sands: ER%/EM",
+                "Goblet: EM",
+                "Circlet: EM"
+            ],
+            "Sub_Stats": "ER% > EM"
         }
     ],
     "Team_Compositions": "Team compositions if there are any",
-    "Character_Image_URL": ""
+    "Character_Image_URL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/08/24/194600931/37a18b6b6865c59063003a9380f08225_7758071773430345954.png?x-oss-process=image%2Fformat%2Cwebp"
 }

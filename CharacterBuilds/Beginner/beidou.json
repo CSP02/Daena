@@ -1,21 +1,38 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Beidou",
+    "Character_Title": "Uncrowned Lord of the Ocean",
     "Embed_Color": "#b08fc2",
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": [],
-            "Best_Artifacts_2x": [],
-            "Weapon": [],
-            "Main_Stats": [
-                "Sands: ",
-                "Goblet: ",
-                "Circlet: "
+            "Best_Artifacts_4x": [
+                "Emblem of Severed Fate",
+                "Thundersoother",
+                "Thundering Fury"
             ],
-            "Sub_Stats": ""
+            "Best_Artifacts_2x": [
+                "Thundering Fury",
+                "Noblesse Oblige",
+                "2 ATK% sets (2ATK)/2EoSF"
+            ],
+            "Weapon": [
+                "Serpent Spine",
+                "Akuoumaru",
+                "Redhorn Stonethresher",
+                "Wolf's Gravestone",
+                "Unforged",
+                "Luxurious Sea-Lord",
+                "Skyward Pride",
+                "Prototype Archaic"
+            ],
+            "Main_Stats": [
+                "Sands: ATK%/ER%",
+                "Goblet: Electro Damage%",
+                "Circlet: CRIT Rate/CRIT DMG"
+            ],
+            "Sub_Stats": "ER% > CRIT Rate/CRIT DMG > ATK% > EM > ATK"
         }
     ],
     "Team_Compositions": "Team compositions if there are any",
-    "Character_Image_URL": ""
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Beidou_icon.png"
 }

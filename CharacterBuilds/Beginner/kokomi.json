@@ -1,21 +1,33 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Sangonomiya Kokomi",
+    "Character_Title": "Pearl of Wisdom",
     "Embed_Color": "#00BFFF",
     "Role_Build": [
         {
-            "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": [],
-            "Best_Artifacts_2x": [],
-            "Weapon": [],
-            "Main_Stats": [
-                "Sands: ",
-                "Goblet: ",
-                "Circlet: "
+            "Build_Name": "Healer_Build",
+            "Best_Artifacts_4x": [
+                "Ocean-hued clam",
+                "Tenacity of the millelith"
             ],
-            "Sub_Stats": ""
+            "Best_Artifacts_2x": [
+                "Maiden Beloved",
+                "Tenacity of the millelith",
+                "Ocean-hued clam"
+            ],
+            "Weapon": [
+                "Everlasting Moonglow",
+                "Prototype Amber",
+                "Hakushin Ring",
+                "Thrilling Tales of Dragon Slayers"
+            ],
+            "Main_Stats": [
+                "Sands: HP% or ER%",
+                "Goblet: Hydro DMG bonus%",
+                "Circlet: Healing Bonus% or HP%"
+            ],
+            "Sub_Stats": "ER% > HP% > Flat HP = ATK% > EM > Flat ATK"
         }
     ],
     "Team_Compositions": "Team compositions if there are any",
-    "Character_Image_URL": ""
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Sangonomiya%2520Kokomi_icon.png"
 }

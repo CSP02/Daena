@@ -1,21 +1,60 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Diona",
+    "Character_Title": "Kätzlein Cocktail",
     "Embed_Color": "#a0d7e4",
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": [],
-            "Best_Artifacts_2x": [],
-            "Weapon": [],
+            "Best_Artifacts_4x": [
+                "Noblesse Oblige",
+                "Tenacity of The Millelith",
+                "Blizzard Strayer",
+                "Deepwood Memories"
+            ],
+            "Best_Artifacts_2x": [
+                "Noblesse Oblige",
+                "Tenacity of The Millelith",
+                "Blizzard Strayer",
+                "Deepwood Memories"
+            ],
+            "Weapon": [
+                "Favonius Warbow",
+                "Sacrificial Bow"
+            ],
             "Main_Stats": [
-                "Sands: ",
-                "Goblet: ",
-                "Circlet: "
+                "Sands: HP%",
+                "Goblet: HP%",
+                "Circlet: HP%"
+            ],
+            "Sub_Stats": "ER > CRIT Rate (Fav) >  HP% > Flat HP."
+        },
+        {
+            "Build_Name": "Support_Build",
+            "Best_Artifacts_4x": [
+                "Maiden's Beloved",
+                "Deepwood Memories",
+                "Ocean-Hued clam"
+            ],
+            "Best_Artifacts_2x": [
+                "Tenacity of the Millelith",
+                "Vourukasha's Glow",
+                "Emblem of severed fate",
+                "Maiden Beloved",
+                "Ocean-Hued Clam"
+            ],
+            "Weapon": [
+                "Sacrificial Bow",
+                "Elegy for the End",
+                "Recurve Bow"
+            ],
+            "Main_Stats": [
+                "Sands: HP%",
+                "Goblet: HP%",
+                "Circlet: HP%"
             ],
             "Sub_Stats": ""
         }
     ],
     "Team_Compositions": "Team compositions if there are any",
-    "Character_Image_URL": ""
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Diona_icon.png"
 }

@@ -1,21 +1,66 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Layla",
+    "Character_Title": "Fantastical Evening Star",
     "Embed_Color": "#a0d7e4",
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": [],
-            "Best_Artifacts_2x": [],
-            "Weapon": [],
-            "Main_Stats": [
-                "Sands: ",
-                "Goblet: ",
-                "Circlet: "
+            "Best_Artifacts_4x": [
+                "Blizzard Strayer",
+                "Emblem of Severed Fate",
+                "Noblesse Oblige"
             ],
-            "Sub_Stats": ""
+            "Best_Artifacts_2x": [
+                "Blizzard Strayer",
+                "Emblem of Severed Fate",
+                "Noblesse Oblige"
+            ],
+            "Weapon": [
+                "Primordial Jade Cutter",
+                "Harbinger of Dawn",
+                "Mistsplitter Reforged",
+                "Haran Geppaku Futsu",
+                "Light of Foliar Incision",
+                "Key of Khaj-Nisut",
+                "Favonius Sword",
+                "Freedom sworn",
+                "Sacrificial Sword"
+            ],
+            "Main_Stats": [
+                "Sands: HP% | ER%",
+                "Goblet: Cryo DMG Bonus",
+                "Circlet: HP% | CRIT"
+            ],
+            "Sub_Stats": "ER% until requirement > CRIT ≥ HP% > Flat HP"
+        },
+        {
+            "Build_Name": "Sheild_Build",
+            "Best_Artifacts_4x": [
+                "Tenacity of the Millelith",
+                "Noblesse Oblige",
+                "Deepwood Memories",
+                "Instructor",
+                "The Exile"
+            ],
+            "Best_Artifacts_2x": [
+                "Vourukasha's glow",
+                "Tenacity of the millelith",
+                "Emblem of severed fate"
+            ],
+            "Weapon": [
+                "Favonius Sword",
+                "Key of Khaj-Nisut",
+                "Primordial Jade Cutter",
+                "Sacrificial Sword"
+            ],
+            "Main_Stats": [
+                "Sands: HP% | ER%",
+                "Goblet: HP%",
+                "Circlet: HP% > CRIT Rate"
+            ],
+            "Sub_Stats": "ER% > HP% > CRIT Rate > Flat HP"
         }
     ],
     "Team_Compositions": "Team compositions if there are any",
-    "Character_Image_URL": ""
+    "Character_Image_URL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/11/15/35428890/48a495acadaf37f12d0a7f653d85bd83_7085430198590697354.png?x-oss-process=image%2Fformat%2Cwebp"
 }

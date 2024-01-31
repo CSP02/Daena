@@ -1,21 +1,37 @@
 {
-    "Character_Name": "",
-    "Character_Title": "",
+    "Character_Name": "Diluc",
+    "Character_Title": "The Dark Side of Dawn",
     "Embed_Color": "#ef7a35",
     "Role_Build": [
         {
             "Build_Name": "DPS_Build",
-            "Best_Artifacts_4x": [],
-            "Best_Artifacts_2x": [],
-            "Weapon": [],
-            "Main_Stats": [
-                "Sands: ",
-                "Goblet: ",
-                "Circlet: "
+            "Best_Artifacts_4x": [
+                "Crimson Witch of Flames",
+                "Gladiator's finale"
             ],
-            "Sub_Stats": ""
+            "Best_Artifacts_2x": [
+                "Crimson Witch of Flames",
+                "Gladiator's finale",
+                "2pc +18% ATK/2pc"
+            ],
+            "Weapon": [
+                "Redhorn Stonethresher",
+                "Wolf's Gravestone",
+                "The Unforged",
+                "Serpent Spine",
+                "Rainslasher",
+                "Blackcliff Slasher",
+                "Prototype Archaic",
+                "Luxurious Sea-Lord"
+            ],
+            "Main_Stats": [
+                "Sands: ATK% / EM",
+                "Goblet: Pyro DMG%",
+                "Circlet: CRIT DMG/CRIT Rate"
+            ],
+            "Sub_Stats": "CRIT DMG/CRIT Rate > EM > ATK%"
         }
     ],
     "Team_Compositions": "Team compositions if there are any",
-    "Character_Image_URL": ""
+    "Character_Image_URL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Diluc_icon.png"
 }
