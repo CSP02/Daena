@@ -3,7 +3,28 @@ const { InteractionType } = require("discord.js");
 
 module.exports = async (Discord, client, interaction) => {
 	try {
-		if (interaction.type !== InteractionType.ApplicationCommand) {
+		if(interaction.isModalSubmit()){
+			if(interaction.customId === "charDetails"){
+				const charName = interaction.fields.getTextInputValue("charName")
+				if(fs.readdirSync("CharacterBuilds/Beginner").filter(f => f === `${charName}.json`).length === 0) return interaction.reply({content: "Invalid character!"})
+				await interaction.reply({content: "Your build is successfully submitted!"})
+			}
+		}
+		if (interaction.isAutocomplete()) {
+			const command = require("../../SlashCommands/Builds/showbuild.js");
+
+			if (!command) {
+				console.error(`No command matching ${interaction.commandName} was found.`);
+				return;
+			}
+
+			try {
+				await command.autocomplete(interaction);
+			} catch (error) {
+				console.error(error);
+			}
+		}
+		else if (interaction.type !== InteractionType.ApplicationCommand) {
 			const customId = interaction.customId.toString();
 			const interactionFiles = fs
 				.readdirSync("./interactions/")

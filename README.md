@@ -16,6 +16,10 @@ Daena has almost all the character build's (and team compositions coming soon). 
 Here is the invite link for daena:
 [Invite Daena](https://discord.com/api/oauth2/authorize?client_id=1168845400145395734&permissions=962073058368&scope=bot)
 
+- Added error handler
+- Added submit builds (you can now submit your builds to us)
+- Character name auto complete
+
 you can either send feedback in github or in the [Daena discord server](https://discord.gg/QVyA7VnJeH)
 
 And once again thanks for support.
