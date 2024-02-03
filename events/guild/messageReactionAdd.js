@@ -1,5 +1,4 @@
 module.exports = async (Discord, client, reaction) => {
-   if(reaction.me) return
    const reactMsg = await reaction.fetch()
    const reactionDetails = []
    const minAccepts = await client.guilds.cache.get(process.env.GUILDID).roles.cache.get(process.env.BUILDVERIFIERID).members.size
@@ -10,6 +9,7 @@ module.exports = async (Discord, client, reaction) => {
    const reactions = await reactMsg.message.reactions.cache
    const tickCount = reactions.get("✅").count
    const crossCount = reactions.get("❌").count
+   if (crossCount <= 1 || tickCount <= 1) return
 
    if (tickCount + crossCount >= minAccepts) {
       if (tickCount > crossCount) {
