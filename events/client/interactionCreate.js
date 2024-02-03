@@ -6,7 +6,7 @@ module.exports = async (Discord, client, interaction) => {
 		if(interaction.isModalSubmit()){
 			if(interaction.customId === "charDetails"){
 				const charName = interaction.fields.getTextInputValue("charName")
-				if(fs.readdirSync("CharacterBuilds/Beginner").filter(f => f === `${charName}.json`).length === 0) return interaction.reply({content: "Invalid character!"})
+				if(fs.readdirSync("CharacterBuilds/Beginner").filter(f => f === `${charName.toLowerCase()}.json`).length === 0) return interaction.reply({content: "Invalid character!"})
 				await interaction.reply({content: "Your build is successfully submitted!"})
 			}
 		}

@@ -5,7 +5,7 @@ function keepAlive() {
 	server.get('/', (req, res) => {
 		res.send("Server is on")
 	})
-	server.listen(3000, () => {
+	server.listen(3003, () => {
 		console.log("server is ready")
 	});
 }

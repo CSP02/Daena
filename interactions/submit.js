@@ -11,18 +11,21 @@ module.exports = {
         const weapons = interaction.fields.getTextInputValue("weapons")
 
         const build = new EmbedBuilder()
-        .setTitle("Character Details:")
-		.addFields([
-                {name: "Character Name:", value: charName.toString()},
-                {name: "Character Role:", value: charRole.toString()},
-                {name: "4x Artifact sets:", value: arti4x.toString()},
-                {name: "2x Artifact sets:", value: arti2x.toString()},
-                {name: "Weapons:", value: weapons.toString()}
-        ])
-        .setColor("#20effe")
+            .setTitle("Character Details:")
+            .addFields([
+                { name: "Character Name:", value: charName.toString() },
+                { name: "Character Role:", value: charRole.toString() },
+                { name: "4x Artifact sets:", value: arti4x.toString() },
+                { name: "2x Artifact sets:", value: arti2x.toString() },
+                { name: "Weapons:", value: weapons.toString() }
+            ])
+            .setColor("#20effe")
 
-        await client.users.fetch(process.env.BUILDVERIFIERID).then((owner) => {
-            owner.send({embeds: [build]})
+        await interaction.guild.channels.fetch(process.env.SUBCHNLID).then(channel => {
+            channel.send({ embeds: [build]}).then(message => {
+                message.react("✅")
+                message.react("❌")
+            })
         })
     }
 }
