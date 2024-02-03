@@ -7,9 +7,9 @@ module.exports = async (Discord, client, reaction) => {
 
    if (reactMsg.message.channel.id !== process.env.SUBCHNLID) return
    const reactions = await reactMsg.message.reactions.cache
+   if(reactions.size < 2) return
    const tickCount = reactions.get("✅").count
    const crossCount = reactions.get("❌").count
-   if (crossCount <= 1 || tickCount <= 1) return
 
    if (tickCount + crossCount >= minAccepts) {
       if (tickCount > crossCount) {
